@@ -78,6 +78,10 @@
     {
       "name": "UEFA NATIONS",
       "sport": "Football"
+    },
+    {
+      "name": "USL League one",
+      "sport": "Football"
     }
   ],
   "teams": [
@@ -100,6 +104,16 @@
       "code": "CRO",
       "name": "Croatia",
       "badge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq5XsZiuj9caRxGMx6SOfWOquupSMm_ubq3PKsSMcZzw&s=10"
+    },
+    {
+      "code": "RK",
+      "name": "Richmond Kickers",
+      "badge": "https://imgs.search.brave.com/xZdv44vJVYPUuICr70yBFv7YQdxvwCz4Mwz-Y12RzYk/rs:fit:100:100:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hcGktc3BvcnRz/LmlvL2Zvb3RiYWxs/L2xlYWd1ZXMvMjUz/LnBuZw"
+    },
+    {
+      "code": "KV",
+      "name": "Knoxville Troops",
+      "badge": "https://imgs.search.brave.com/AsqxZ9nnsX5dhBjXUuztwib06C_jLFTjDxIWy8k6VdQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTNjZmVjOWZk/MTU5N2ZhM2JhN2Y3/ZjEyYWViNGIzYTE4/MzNmOGFkNjVhYTJh/ZGJjNDA4NjUzMDlh/ZjViYTQ0Yy93d3cu/b25la25veHNjLmNv/bS8"
     }
   ],
   "events": [
@@ -119,6 +133,27 @@
           "status": "unstable",
           "recommended": true,
           "useProxy": true,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1791066806956,
+      "league": "USL League one",
+      "sport": "Football",
+      "home": "RK",
+      "away": "KV",
+      "status": "live",
+      "minute": "27",
+      "servers": [
+        {
+          "name": "Camel server",
+          "url": "https://liveplay1.camel4.live/live/sd-6Mwd6CrRzqNSHggXHZ.m3u8?txSecret=c62209125eb87b03b1e23b06364a19c2&txTime=6AC182B6&lat=9000&auth=55296f164e50bf00c25c433d0fbb5f6f",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
           "delaySeconds": null,
           "headers": {}
         }
