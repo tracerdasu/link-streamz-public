@@ -95,7 +95,8 @@
       "sport": "Football",
       "home": "ARS",
       "away": "CHL",
-      "status": "finished",
+      "status": "live",
+      "minute": "0",
       "servers": [
         {
           "name": "Server 1",
