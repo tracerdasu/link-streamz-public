@@ -156,9 +156,9 @@
       "servers": [
         {
           "name": "Server 1",
-          "url": "https://testserver.m3u8",
+          "url": "https://liveplay1.camel4.live/live/sd-6Mwb79QME1kUGBxYgw.m3u8?txSecret=1284303c1f4dafb7b32e175ca7082818&txTime=6AC294B8&lat=9000&auth=415c56ed936211be1c25a45b2e0d6b62",
           "quality": "SD",
-          "status": "unstable",
+          "status": "average",
           "recommended": true,
           "useProxy": true,
           "delaySeconds": null,
