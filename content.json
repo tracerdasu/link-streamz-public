@@ -158,6 +158,27 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1791078246693,
+      "league": "Premier League",
+      "sport": "Football",
+      "home": "CRO",
+      "away": "CHL",
+      "status": "live",
+      "minute": "12+12",
+      "servers": [
+        {
+          "name": "Camel server",
+          "url": "https://liveplay1.camel4.live/live/sd-6MwarUrmyB6i2szvZd.m3u8?txSecret=93bc2fcce675305756d2570e00496f4c&txTime=6AC1B01C&lat=9000&auth=35011e2c0fc5e023e66aa84dd0f3f80b",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [
