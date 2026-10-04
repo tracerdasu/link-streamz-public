@@ -156,30 +156,19 @@
       "code": "TS2",
       "name": "Test2",
       "badge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULUgJyrBY8PdVFYkQlGVDxEkOktItaE_9tEdGHzb7CQ&s=10"
+    },
+    {
+      "code": "IR",
+      "name": "Ireland",
+      "badge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-Yqy4m4VutPReIDAAq6fY8oqfvZZgLdbwlE0VNfKhQ&s=10"
+    },
+    {
+      "code": "IS",
+      "name": "Israel",
+      "badge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg1z-77ml32c2__UFDB3Lg5WoSKnaLFA31dG1xdvk2Vg&s"
     }
   ],
   "events": [
-    {
-      "id": 1790685256422,
-      "league": "Premier League",
-      "sport": "Football",
-      "home": "ARS",
-      "away": "CHL",
-      "status": "live",
-      "minute": "0",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://liveplay1.camel4.live/live/sd-6Mwb79QME1kUGBxYgw.m3u8?txSecret=1284303c1f4dafb7b32e175ca7082818&txTime=6AC294B8&lat=9000&auth=415c56ed936211be1c25a45b2e0d6b62",
-          "quality": "SD",
-          "status": "average",
-          "recommended": true,
-          "useProxy": true,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    },
     {
       "id": 1791066806956,
       "league": "USL League one",
@@ -202,34 +191,12 @@
       ]
     },
     {
-      "id": 1791078246693,
-      "league": "Premier League",
-      "sport": "Football",
-      "home": "CRO",
-      "away": "CHL",
-      "status": "live",
-      "minute": "12+12",
-      "servers": [
-        {
-          "name": "Camel server",
-          "url": "https://liveplay1.camel4.live/live/sd-6MwarUrmyB6i2szvZd.m3u8?txSecret=93bc2fcce675305756d2570e00496f4c&txTime=6AC1B01C&lat=9000&auth=35011e2c0fc5e023e66aa84dd0f3f80b",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    },
-    {
       "id": 1791080591119,
       "league": "VJ Emmy",
       "sport": "MOVIES",
       "home": "MV1",
       "away": "MV",
-      "status": "live",
-      "minute": "4",
+      "status": "finished",
       "servers": [
         {
           "name": "Server 1",
@@ -249,8 +216,7 @@
       "sport": "MOVIES",
       "home": "MV1",
       "away": "MV",
-      "status": "live",
-      "minute": "8",
+      "status": "finished",
       "servers": [
         {
           "name": "Server 1",
@@ -351,6 +317,27 @@
           "quality": "SD",
           "status": "stable",
           "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1791142369886,
+      "league": "UEFA NATIONS",
+      "sport": "Football",
+      "home": "IR",
+      "away": "IS",
+      "status": "live",
+      "minute": "45+1",
+      "servers": [
+        {
+          "name": "Camel",
+          "url": "https://liveplay1.camel4.live/live/sd-6MwcqstM2xH69HKNFH_md.m3u8?txSecret=87a77585d2d7df527d67c403f3f5a97f&txTime=6AC2AB60&lat=9000&auth=55296f164e50bf00c25c433d0fbb5f6f",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
