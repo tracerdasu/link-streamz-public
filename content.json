@@ -259,6 +259,27 @@
       "status": "upcoming",
       "kickoff": "2026-10-04T18:45:00.000Z",
       "servers": []
+    },
+    {
+      "id": 1791136054006,
+      "league": "",
+      "sport": "Ice hockey",
+      "home": "CRO",
+      "away": "KV",
+      "status": "live",
+      "minute": "0",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://lb14.strmd.st/secure/GWdxsLoabMJReiSjTrvpcVSaOiyftIaL/rtmp/stream/wZHGeOiguXxwgIjCvqpdzNeRytOxA2bV4Tj6Z5RXRYgQZqP-uLZmJo3U4x3Z/1/low/mono.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [
