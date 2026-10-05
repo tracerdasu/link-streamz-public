@@ -207,6 +207,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Vj Junior",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Wheelman_VJ_Ulio.mp4",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     },
