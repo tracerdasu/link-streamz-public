@@ -386,6 +386,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "camel",
+          "url": "https://liveplay1.camel4.live/live/sd-6MxjZALhrYf99UeaEs.m3u8?txSecret=22271a9e958aabe4f5ec60bb9fe2d498&txTime=6AC318D0&lat=9000&auth=55296f164e50bf00c25c433d0fbb5f6f",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     }
