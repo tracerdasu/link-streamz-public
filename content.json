@@ -12,7 +12,8 @@
     "American football",
     "Ice hockey",
     "Volleyball",
-    "Motorsport"
+    "Motorsport",
+    "LIVE TV CHANNEL"
   ],
   "leagues": [
     {
@@ -98,6 +99,10 @@
     {
       "name": "UEFA NATIONS LEAGUE",
       "sport": "Football"
+    },
+    {
+      "name": "Live Tv",
+      "sport": "LIVE TV CHANNEL"
     }
   ],
   "teams": [
@@ -185,6 +190,16 @@
       "code": "BL",
       "name": "Belgium",
       "badge": "https://imgs.search.brave.com/aJMzjzx-xZo-opMysNBbFac55SXrFmvKW0LOJW1LUAM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMzUv/NDQyLzc1My9zbWFs/bC9iZWxnaXVtLW5h/dGlvbmFsLWZsYWct/M2QtYmVsZ2l1bS1m/bGFnLXdhdmluZy1z/ZWFtbGVzcy1sb29w/LWFuaW1hdGlvbi1m/cmVlLXZpZGVvLmpw/Zw"
+    },
+    {
+      "code": "TV",
+      "name": "TV channel1",
+      "badge": ""
+    },
+    {
+      "code": "TV2",
+      "name": "TV Channel2",
+      "badge": ""
     }
   ],
   "events": [
@@ -462,6 +477,27 @@
       "status": "upcoming",
       "kickoff": "2026-10-05T18:45:00.000Z",
       "servers": []
+    },
+    {
+      "id": 1791216986206,
+      "league": "Live Tv",
+      "sport": "LIVE TV CHANNEL",
+      "home": "TV",
+      "away": "TV2",
+      "status": "live",
+      "minute": "0",
+      "servers": [
+        {
+          "name": "BBS TV",
+          "url": "https://bbstv.ug/hls/ch01/index.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [
