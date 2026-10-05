@@ -222,6 +222,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Finally",
+          "url": "https://a14.kora-plus.li/live/fox2.m3u8?token=87ub2GBBkUNM7v1h2wblI_lB9_0&exp=1791214265",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     },
