@@ -227,6 +227,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Vj Kevo",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/The%20Little%20Vampire%203D%20by%20Vj%20Kevo.mp4",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     },
