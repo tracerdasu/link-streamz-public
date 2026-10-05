@@ -396,6 +396,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Server 5",
+          "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-50187-no/1a035f31bea2ec69607bc454c8dc5c3d~tplv-tiktokx-origin.image?dr=10395&refresh_token=36baa7a0&x-expires=1791198000&x-signature=cyGbGEpOZ10Hrf1Nuk8R%2Fk4%2F%2Bo8%3D&t=4d5b0474&ps=13740610&shp=f21f527a&shcp=9b759fb9&idc=no1a",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     }
