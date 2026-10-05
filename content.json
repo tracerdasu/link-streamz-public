@@ -232,6 +232,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "BeIN 2",
+          "url": "https://a15.kora-plus.li/live/b2.m3u8?token=0NNHj29GJdlDVLFUjk25hQbt1Cs&exp=1791216489",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     },
