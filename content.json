@@ -376,6 +376,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Buffstreams ",
+          "url": "https://lb31.strmd.st/secure/zNCquVVBPvffmYmXxAUzVKHgoRbOMVTC/rtmp/stream/247-tennis_720/1/high/mono.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     }
