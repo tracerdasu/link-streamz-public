@@ -290,6 +290,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Crack Streams",
+          "url": "https://lb26.strmd.st/secure/mRseQlmEmlggSIIndODNqegcpuatJDRW/rtmp/stream/LLduBTvGQqrIX7khjQlfm2ZA8_pI093bCHX-UXr5iznZR1iFYoRJouPtHGeJF2uaS-Q91g1rScAlwePdZ4o/1/high/mono.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     },
