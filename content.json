@@ -94,6 +94,10 @@
     {
       "name": "TESTING PLAYER",
       "sport": "TEST VIDEO"
+    },
+    {
+      "name": "UEFA NATIONS LEAGUE",
+      "sport": "Football"
     }
   ],
   "teams": [
@@ -171,6 +175,16 @@
       "code": "LT",
       "name": "Luton town",
       "badge": "https://imgs.search.brave.com/NuUVrENrNO-BofVY3y9XjnvSMkoVv4cbRcv5T9a9C7A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9lbi90aHVtYi85/LzlkL0x1dG9uX1Rv/d25fbG9nby5zdmcv/MTI4MHB4LUx1dG9u/X1Rvd25fbG9nby5z/dmcucG5nP3V0bV9z/b3VyY2U9ZW4ud2lr/aXBlZGlhLm9yZyZh/bXA7dXRtX2NhbXBh/aWduPWluZGV4JmFt/cDt1dG1fY29udGVu/dD10aHVtYm5haWw"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "badge": "https://imgs.search.brave.com/5v2zLtunnfl0qoPdn2FWJxgWZHcUQ5G6UUdgMIc4hjw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTE3/NDk4MzQyL3Bob3Rv/L2ZsYWctb2YtZnJh/bmNlLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1Lb3JMR0pf/RUYtY2lJekNGY05P/QV9PQWpQM0NBSFlE/cE53RUtXRTNtdmtB/PQ"
+    },
+    {
+      "code": "BL",
+      "name": "Belgium",
+      "badge": "https://imgs.search.brave.com/aJMzjzx-xZo-opMysNBbFac55SXrFmvKW0LOJW1LUAM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMzUv/NDQyLzc1My9zbWFs/bC9iZWxnaXVtLW5h/dGlvbmFsLWZsYWct/M2QtYmVsZ2l1bS1m/bGFnLXdhdmluZy1z/ZWFtbGVzcy1sb29w/LWFuaW1hdGlvbi1m/cmVlLXZpZGVvLmpw/Zw"
     }
   ],
   "events": [
@@ -438,6 +452,16 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1791215629002,
+      "league": "UEFA NATIONS LEAGUE",
+      "sport": "Football",
+      "home": "FR",
+      "away": "BL",
+      "status": "upcoming",
+      "kickoff": "2026-10-05T18:45:00.000Z",
+      "servers": []
     }
   ],
   "highlights": [
