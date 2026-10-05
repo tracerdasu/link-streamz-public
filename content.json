@@ -166,6 +166,11 @@
       "code": "IS",
       "name": "Israel",
       "badge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg1z-77ml32c2__UFDB3Lg5WoSKnaLFA31dG1xdvk2Vg&s"
+    },
+    {
+      "code": "LT",
+      "name": "Luton town",
+      "badge": "https://imgs.search.brave.com/NuUVrENrNO-BofVY3y9XjnvSMkoVv4cbRcv5T9a9C7A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9lbi90aHVtYi85/LzlkL0x1dG9uX1Rv/d25fbG9nby5zdmcv/MTI4MHB4LUx1dG9u/X1Rvd25fbG9nby5z/dmcucG5nP3V0bV9z/b3VyY2U9ZW4ud2lr/aXBlZGlhLm9yZyZh/bXA7dXRtX2NhbXBh/aWduPWluZGV4JmFt/cDt1dG1fY29udGVu/dD10aHVtYm5haWw"
     }
   ],
   "events": [
@@ -376,6 +381,25 @@
         {
           "name": "From Youtube",
           "url": "https://youtu.be/GDieIfkT1FQ?si=_GMLMX_TOvG5CwRu",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1791162641080,
+      "title": "Full Highlights ",
+      "home": "LT",
+      "away": "ARS",
+      "length": "10:00",
+      "servers": [
+        {
+          "name": "Luton Tv",
+          "url": "https://youtu.be/89Hd99Mjfjw?si=Kco3uDkp9_xIvSoI",
           "quality": "SD",
           "status": "stable",
           "recommended": true,
