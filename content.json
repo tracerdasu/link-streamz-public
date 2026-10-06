@@ -102,6 +102,10 @@
     {
       "name": "Live Tv",
       "sport": "LIVE TV CHANNEL"
+    },
+    {
+      "name": "CLUB FRIENDLIES",
+      "sport": "Football"
     }
   ],
   "teams": [
@@ -199,6 +203,16 @@
       "code": "TV2",
       "name": "TV Channel2",
       "badge": ""
+    },
+    {
+      "code": "BN",
+      "name": "Benin",
+      "badge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcF-Wud66xKxJhYM5Q2em4U-lf1tzzSyYB4PIyy3h6Gw&s=10"
+    },
+    {
+      "code": "AG",
+      "name": "Argentina",
+      "badge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqJix5sG5UdFX3b_2SPIWPCt6rwMF1_zzE9M7LG1FPw&s=10"
     }
   ],
   "events": [
@@ -557,6 +571,16 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1791315538141,
+      "league": "CLUB FRIENDLIES",
+      "sport": "Football",
+      "home": "AG",
+      "away": "BN",
+      "status": "upcoming",
+      "kickoff": "2026-10-06T23:00:00.000Z",
+      "servers": []
     }
   ],
   "highlights": [
