@@ -598,5 +598,148 @@
         }
       ]
     }
+  ],
+  "movies": [
+    {
+      "id": 1791265368291,
+      "title": "L VILLAGE",
+      "genre": "DOCUMENTARY",
+      "year": 2026,
+      "vj": "VJ Ulio",
+      "translated": true,
+      "thumb": "",
+      "duration": "1:50:50",
+      "videoUrl": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Little_Lorraine_VJ_Ulio.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Little_Lorraine_VJ_Ulio.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1791265494875,
+      "title": "TESTING",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Emmy",
+      "translated": true,
+      "thumb": "",
+      "duration": "NA",
+      "videoUrl": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Cold_House_VJ_Emmy.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Cold_House_VJ_Emmy.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    }
+  ],
+  "series": [],
+  "channels": [
+    {
+      "id": 1791265673491,
+      "name": "Fubo sports",
+      "category": "Sports",
+      "country": "USA",
+      "initials": "FS",
+      "color1": "#7a3fff",
+      "color2": "#3f1f8a",
+      "program": "",
+      "videoUrl": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1791265785692,
+      "name": "BBS Telefayina",
+      "category": "General",
+      "country": "Uganda",
+      "initials": "BT",
+      "color1": "#7a3fff",
+      "color2": "#3f1f8a",
+      "program": "",
+      "videoUrl": "https://bbstv.ug/hls/ch01/index.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://bbstv.ug/hls/ch01/index.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1791265853012,
+      "name": "BUKEDDE TV 1",
+      "category": "General",
+      "country": "Uganda",
+      "initials": "BT1",
+      "color1": "#7a3fff",
+      "color2": "#3f1f8a",
+      "program": "",
+      "videoUrl": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1791265904155,
+      "name": "DREAM TV",
+      "category": "General",
+      "country": "Uganda",
+      "initials": "DT",
+      "color1": "#7a3fff",
+      "color2": "#3f1f8a",
+      "program": "",
+      "videoUrl": "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    }
   ]
 }
