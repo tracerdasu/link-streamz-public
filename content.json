@@ -785,6 +785,29 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1791332614158,
+      "name": "BeIN Sports Extra",
+      "category": "Sports",
+      "country": "",
+      "initials": "BSE",
+      "color1": "#ff0000",
+      "color2": "#3f1f8a",
+      "program": "",
+      "videoUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ]
 }
