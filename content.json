@@ -422,6 +422,29 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1791391634386,
+      "title": "ONE NIGHT ONLY",
+      "genre": "ROMANCE",
+      "year": 2026,
+      "vj": "VJ Junior",
+      "translated": true,
+      "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQiEe8hc3JKZRNOJgsw3liiO1uHB242pZnIEwOf0smr5kevpaif6uSLRLp6hoAB1snSGLFTA&s=10",
+      "duration": "1:42:46",
+      "videoUrl": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/One_Night_Only_VJ_Junior.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/One_Night_Only_VJ_Junior.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [],
@@ -607,6 +630,7 @@
   ],
   "vjs": [
     "VJ Emmy",
+    "VJ Junior",
     "VJ Ulio"
   ]
 }
