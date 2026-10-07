@@ -279,6 +279,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Camel live ",
+          "url": "https://liveplay1.camel4.live/live/sd-6Mwea3ySpxVC3wHuTm.m3u8?txSecret=85ef9cffa082447a8e48b50f55191d9b&txTime=6AC65188&lat=9000&auth=35011e2c0fc5e023e66aa84dd0f3f80b",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     },
@@ -399,7 +409,6 @@
       "category": "Sports",
       "country": "USA",
       "initials": "FS",
-      "logo": "",
       "color1": "#7a3fff",
       "color2": "#3f1f8a",
       "program": "",
@@ -423,7 +432,6 @@
       "category": "General",
       "country": "Uganda",
       "initials": "BT",
-      "logo": "https://images.seeklogo.com/logo-png/55/1/bbs-tv-uganda-buganda-broadcasting-services-logo-png_seeklogo-550252.png",
       "color1": "#7a3fff",
       "color2": "#3f1f8a",
       "program": "",
@@ -447,7 +455,6 @@
       "category": "General",
       "country": "Uganda",
       "initials": "BT1",
-      "logo": "https://images.seeklogo.com/logo-png/55/1/bukedde-tv-uganda-logo-png_seeklogo-550253.png",
       "color1": "#7a3fff",
       "color2": "#3f1f8a",
       "program": "",
@@ -471,7 +478,6 @@
       "category": "General",
       "country": "Uganda",
       "initials": "DT",
-      "logo": "https://images.seeklogo.com/logo-png/55/1/dream-tv-uganda-logo-png_seeklogo-550256.png",
       "color1": "#7a3fff",
       "color2": "#3f1f8a",
       "program": "",
@@ -495,7 +501,6 @@
       "category": "Sports",
       "country": "UK",
       "initials": "BSE",
-      "logo": "",
       "color1": "#ff0000",
       "color2": "#ffffff",
       "program": "Please use VPN",
@@ -513,9 +518,5 @@
         }
       ]
     }
-  ],
-  "vjs": [
-    "VJ Emmy",
-    "VJ Ulio"
   ]
 }
