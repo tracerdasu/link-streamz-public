@@ -649,6 +649,30 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1791394656706,
+      "name": "PREMIER SPORTS 2",
+      "category": "Sports",
+      "country": "USA",
+      "initials": "PS2",
+      "logo": "",
+      "color1": "#16a34a",
+      "color2": "#065f1f",
+      "program": "",
+      "videoUrl": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "vjs": [
