@@ -582,7 +582,7 @@
       "kickoff": "2026-10-06T23:00:00.000Z",
       "servers": [
         {
-          "name": "Camel server ",
+          "name": "Camel server ( VPN )",
           "url": "https://liveplay1.camel4.live/live/sd-6MxjJtc9LPwm8WX2UX_md.m3u8?txSecret=d49aff1dc97d8fd0001ec80e5e21bcad&txTime=6AC588EF&lat=9000&auth=70e0a0234ae7dc2a1745cff996be416f",
           "quality": "SD",
           "status": "stable",
@@ -592,7 +592,7 @@
           "headers": {}
         },
         {
-          "name": "Server 2",
+          "name": "Server 2 ( VPN )",
           "url": "https://liveplay1.camel4.live/live/27551_12568345_y39mp1hdvwjymoj_md.m3u8?txSecret=f957fac0e1677ce8480e09cd02b69768&txTime=6AC588BA&lat=9000&auth=70e0a0234ae7dc2a1745cff996be416f",
           "quality": "SD",
           "status": "stable",
@@ -790,11 +790,11 @@
       "id": 1791332614158,
       "name": "BeIN Sports Extra",
       "category": "Sports",
-      "country": "",
+      "country": "UK",
       "initials": "BSE",
       "color1": "#ff0000",
-      "color2": "#3f1f8a",
-      "program": "",
+      "color2": "#ffffff",
+      "program": "Please use VPN",
       "videoUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
       "servers": [
         {
