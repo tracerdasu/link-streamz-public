@@ -311,37 +311,6 @@
       "status": "upcoming",
       "kickoff": "2026-10-10T16:30:00.000Z",
       "servers": []
-    },
-    {
-      "id": 1791381991403,
-      "league": "CLUB FRIENDLIES",
-      "sport": "Football",
-      "home": "BL",
-      "away": "BN",
-      "status": "live",
-      "minute": "0",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://liveplay1.camel4.live/live/sd-6Mwea3ySpxVC3wHuTm.m3u8?txSecret=85ef9cffa082447a8e48b50f55191d9b&txTime=6AC65188&lat=9000&auth=35011e2c0fc5e023e66aa84dd0f3f80b",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 2",
-          "url": "https://liveplay1.camel4.live/live/sd-6Mwea3ySpxVC3wHuTm.m3u8?txSecret=85ef9cffa082447a8e48b50f55191d9b&txTime=6AC65188&lat=9000&auth=35011e2c0fc5e023e66aa84dd0f3f80b",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
     }
   ],
   "highlights": [
@@ -440,6 +409,7 @@
       "category": "Sports",
       "country": "USA",
       "initials": "FS",
+      "logo": "",
       "color1": "#7a3fff",
       "color2": "#3f1f8a",
       "program": "",
@@ -463,6 +433,7 @@
       "category": "General",
       "country": "Uganda",
       "initials": "BT",
+      "logo": "",
       "color1": "#7a3fff",
       "color2": "#3f1f8a",
       "program": "",
@@ -486,6 +457,7 @@
       "category": "General",
       "country": "Uganda",
       "initials": "BT1",
+      "logo": "",
       "color1": "#7a3fff",
       "color2": "#3f1f8a",
       "program": "",
@@ -509,6 +481,7 @@
       "category": "General",
       "country": "Uganda",
       "initials": "DT",
+      "logo": "",
       "color1": "#7a3fff",
       "color2": "#3f1f8a",
       "program": "",
@@ -532,6 +505,7 @@
       "category": "Sports",
       "country": "UK",
       "initials": "BSE",
+      "logo": "",
       "color1": "#ff0000",
       "color2": "#ffffff",
       "program": "Please use VPN",
@@ -555,6 +529,7 @@
       "category": "General",
       "country": "Uganda",
       "initials": "NU",
+      "logo": "",
       "color1": "#ff0000",
       "color2": "#00ffff",
       "program": "NTV Akawungeezi",
@@ -572,5 +547,9 @@
         }
       ]
     }
+  ],
+  "vjs": [
+    "VJ Emmy",
+    "VJ Ulio"
   ]
 }
