@@ -218,6 +218,16 @@
       "code": "LDU",
       "name": "Leeds United",
       "badge": "https://assets.football-logos.cc/logos/england/512x512/leeds-united.ce857129.png"
+    },
+    {
+      "code": "MNCU",
+      "name": "Manchester United",
+      "badge": "https://assets.football-logos.cc/logos/england/512x512/manchester-united.92071bee.png"
+    },
+    {
+      "code": "TNM",
+      "name": "Tottenham",
+      "badge": "https://assets.football-logos.cc/logos/england/512x512/tottenham.5e703fe6.png"
     }
   ],
   "events": [
