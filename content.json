@@ -232,47 +232,6 @@
   ],
   "events": [
     {
-      "id": 1791131251966,
-      "league": "UEFA NATIONS",
-      "sport": "Football",
-      "home": "PG",
-      "away": "NW",
-      "status": "upcoming",
-      "kickoff": "2026-10-04T18:45:00.000Z",
-      "servers": [
-        {
-          "name": "Camel server",
-          "url": "https://liveplay1.camel4.live/live/27551_12568346_3glrw7hn422pqdy_md.m3u8?txSecret=4adcc8fd685a39c63a9514715298556d&txTime=6AC2A379&lat=9000&auth=415c56ed936211be1c25a45b2e0d6b62",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 2",
-          "url": "https://liveplay1.camel4.live/live/sd-6MwcqstM2v5cGoVT6P_md.m3u8?txSecret=f674bb57704062ccdb4b0a0e95a56ab7&txTime=6AC2A3D3&lat=9000&auth=415c56ed936211be1c25a45b2e0d6b62",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    },
-    {
-      "id": 1791215629002,
-      "league": "UEFA NATIONS LEAGUE",
-      "sport": "Football",
-      "home": "FR",
-      "away": "BL",
-      "status": "upcoming",
-      "kickoff": "2026-10-05T18:45:00.000Z",
-      "servers": []
-    },
-    {
       "id": 1791315538141,
       "league": "CLUB FRIENDLIES",
       "sport": "Football",
