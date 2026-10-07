@@ -399,6 +399,29 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1791391417727,
+      "title": "LUCK-KEY",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Ulio",
+      "translated": true,
+      "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8EF8pfLU54i_7KUcUl6oYw5VuX6lUlZNKRjeDfg_sH0nJEvGYrfs-j0jB&s=10",
+      "duration": "1:52:52",
+      "videoUrl": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Luck-Key_VJ_Ulio.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Luck-Key_VJ_Ulio.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [],
