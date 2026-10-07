@@ -548,6 +548,29 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1791388441906,
+      "name": "NTV UG",
+      "category": "General",
+      "country": "Uganda",
+      "initials": "NU",
+      "color1": "#ff0000",
+      "color2": "#00ffff",
+      "program": "NTV Akawungeezi",
+      "videoUrl": "https://ams-2629.antmedia.cloud/LiveApp/streams/abul2026_adaptive.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://ams-2629.antmedia.cloud/LiveApp/streams/abul2026_adaptive.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ]
 }
