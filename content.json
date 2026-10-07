@@ -300,6 +300,26 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Server 3",
+          "url": "https://justkidding.junksonus.party/main/secure/bc0780e38cd2d994b344fc41875445c2599b02859091b826a865f9300b8dcaa5/1791344987/premiersports2-ie.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 4",
+          "url": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8?st=FEIlapVdXCNU6Sall6BLJtbFO6jUyvibkRZSxmM17bY&e=1791346854",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     },
