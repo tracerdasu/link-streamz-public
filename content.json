@@ -232,67 +232,6 @@
   ],
   "events": [
     {
-      "id": 1791315538141,
-      "league": "CLUB FRIENDLIES",
-      "sport": "Football",
-      "home": "AG",
-      "away": "BN",
-      "status": "upcoming",
-      "kickoff": "2026-10-06T23:00:00.000Z",
-      "servers": [
-        {
-          "name": "Camel server ( VPN )",
-          "url": "https://liveplay1.camel4.live/live/sd-6MxjJtc9LPwm8WX2UX_md.m3u8?txSecret=d49aff1dc97d8fd0001ec80e5e21bcad&txTime=6AC588EF&lat=9000&auth=70e0a0234ae7dc2a1745cff996be416f",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 2 ( VPN )",
-          "url": "https://liveplay1.camel4.live/live/27551_12568345_y39mp1hdvwjymoj_md.m3u8?txSecret=f957fac0e1677ce8480e09cd02b69768&txTime=6AC588BA&lat=9000&auth=70e0a0234ae7dc2a1745cff996be416f",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 3",
-          "url": "https://justkidding.junksonus.party/main/secure/bc0780e38cd2d994b344fc41875445c2599b02859091b826a865f9300b8dcaa5/1791344987/premiersports2-ie.m3u8",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 4",
-          "url": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8?st=FEIlapVdXCNU6Sall6BLJtbFO6jUyvibkRZSxmM17bY&e=1791346854",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Camel live ",
-          "url": "https://liveplay1.camel4.live/live/sd-6Mwea3ySpxVC3wHuTm.m3u8?txSecret=85ef9cffa082447a8e48b50f55191d9b&txTime=6AC65188&lat=9000&auth=35011e2c0fc5e023e66aa84dd0f3f80b",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    },
-    {
       "id": 1791334974836,
       "league": "Premier League",
       "sport": "Football",
