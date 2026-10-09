@@ -273,7 +273,28 @@
       "away": "QPR",
       "status": "upcoming",
       "kickoff": "2026-10-09T19:00:00.000Z",
-      "servers": []
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://edgestream7.pro/hls/24SDAZFcsgn/24.m3u8?t=LFQfTB2vomi3&t=LFQfTB2vomi3&t=LFQfTB2vomi3&Takam5mDG1Q1J1y0dQ1qA3sUAa&e=1791581179",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 2",
+          "url": "https://siena2.nebula.to/11379a554c6623480667a96a38f5b41f3ed035f.mp4?md5=qhKDMi_MvRqM6pEVSuf5w&expires=1791522607",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [],
