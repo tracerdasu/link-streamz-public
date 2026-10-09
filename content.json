@@ -370,31 +370,7 @@
       ]
     }
   ],
-  "series": [
-    {
-      "id": 1791508388705,
-      "title": "Private practice",
-      "genre": "ROMANCE",
-      "year": 2007,
-      "vj": null,
-      "translated": false,
-      "thumb": "https://m.media-amazon.com/images/I/51yt-tckqvL.jpg",
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "title": "Episode 1",
-              "duration": "43:00",
-              "thumb": "",
-              "videoUrl": "https://siena2.nebula.to/11379a554c6623480667a96a38f5b41f3ed035f.mp4?md5=qhKDMi_MvRqM6pEVSuf5w&expires=1791522607"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "series": [],
   "channels": [
     {
       "id": 1791265673491,
