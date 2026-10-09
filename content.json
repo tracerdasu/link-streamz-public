@@ -106,6 +106,10 @@
     {
       "name": "CLUB FRIENDLIES",
       "sport": "Football"
+    },
+    {
+      "name": "English Championship",
+      "sport": "Football"
     }
   ],
   "teams": [
@@ -228,6 +232,16 @@
       "code": "TNM",
       "name": "Tottenham",
       "badge": "https://assets.football-logos.cc/logos/england/512x512/tottenham.5e703fe6.png"
+    },
+    {
+      "code": "WS",
+      "name": "Westham United",
+      "badge": "https://assets.football-logos.cc/logos/england/512x512/west-ham.4d2a7059.png"
+    },
+    {
+      "code": "QPR",
+      "name": "QPR",
+      "badge": "https://assets.football-logos.cc/logos/england/512x512/queens-park-rangers.b0cd3c55.png"
     }
   ],
   "events": [
@@ -249,6 +263,16 @@
       "away": "TNM",
       "status": "upcoming",
       "kickoff": "2026-10-10T16:30:00.000Z",
+      "servers": []
+    },
+    {
+      "id": 1791566815796,
+      "league": "English Championship",
+      "sport": "Football",
+      "home": "WS",
+      "away": "QPR",
+      "status": "upcoming",
+      "kickoff": "2026-10-09T19:00:00.000Z",
       "servers": []
     }
   ],
