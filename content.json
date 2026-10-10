@@ -263,7 +263,18 @@
       "away": "TNM",
       "status": "upcoming",
       "kickoff": "2026-10-10T16:30:00.000Z",
-      "servers": []
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://liveplay1.camel4.live/live/hd-en-6MwdqQhXpAv21yfduy_md.m3u8?txSecret=6d5c108c4ba448f001fc4f166261406f&txTime=6ACA7AE6&lat=9000&auth=70e0a0234ae7dc2a1745cff996be416f",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     },
     {
       "id": 1791566815796,
