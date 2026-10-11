@@ -261,8 +261,8 @@
       "sport": "Football",
       "home": "LPJ",
       "away": "MC",
-      "status": "upcoming",
-      "kickoff": "2026-10-11T15:30:00.000Z",
+      "status": "live",
+      "minute": "0",
       "servers": [
         {
           "name": "Server 1",
