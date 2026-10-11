@@ -242,6 +242,16 @@
       "code": "QPR",
       "name": "QPR",
       "badge": "https://assets.football-logos.cc/logos/england/512x512/queens-park-rangers.b0cd3c55.png"
+    },
+    {
+      "code": "MC",
+      "name": "Man City",
+      "badge": "https://assets.football-logos.cc/logos/england/512x512/manchester-city.ef1fe757.png"
+    },
+    {
+      "code": "LPJ",
+      "name": "Liverpool",
+      "badge": "https://assets.football-logos.cc/logos/england/512x512/liverpool.bc7f4063.png"
     }
   ],
   "events": [
@@ -306,6 +316,16 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1791727488771,
+      "league": "Premier League",
+      "sport": "Football",
+      "home": "LPJ",
+      "away": "MC",
+      "status": "upcoming",
+      "kickoff": "2026-10-11T15:30:00.000Z",
+      "servers": []
     }
   ],
   "highlights": [],
