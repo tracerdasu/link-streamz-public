@@ -263,7 +263,18 @@
       "away": "MC",
       "status": "upcoming",
       "kickoff": "2026-10-11T15:30:00.000Z",
-      "servers": []
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://a12.kora-plus.li/livecenter/604-1.m3u8?token=nIjgMwMsjsUClM28Z-o9SLYsMvA&exp=1791734753",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [],
