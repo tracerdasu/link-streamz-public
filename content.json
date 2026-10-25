@@ -252,39 +252,28 @@
       "code": "LPJ",
       "name": "Liverpool",
       "badge": "https://www.footpack.fr/wp-content/uploads/2019/09/logo-liverpool-fc-757x1024.png"
+    },
+    {
+      "code": "BCN",
+      "name": "Barcelona",
+      "badge": "https://www.footylogos.com/dls/logo/rgba-v1/fc-barcelona-atletic.png"
+    },
+    {
+      "code": "RMD",
+      "name": "Real Madrid",
+      "badge": "https://www.footylogos.com/dls/logo/rgba-v1/real-madrid.png"
     }
   ],
   "events": [
     {
-      "id": 1791727488771,
-      "league": "Premier League",
+      "id": 1792955566157,
+      "league": "La Liga",
       "sport": "Football",
-      "home": "LPJ",
-      "away": "MC",
-      "status": "live",
-      "minute": "0",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://a12.kora-plus.li/livecenter/604-1.m3u8?token=nIjgMwMsjsUClM28Z-o9SLYsMvA&exp=1791734753",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 2",
-          "url": "https://a12.kora-plus.li/livecenter/604-1.m3u8?token=nIjgMwMsjsUClM28Z-o9SLYsMvA&exp=1791734753",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
+      "home": "BCN",
+      "away": "RMD",
+      "status": "upcoming",
+      "kickoff": "2026-10-25T20:00:00.000Z",
+      "servers": []
     }
   ],
   "highlights": [],
