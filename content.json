@@ -325,6 +325,16 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1792962210010,
+      "league": "CLUB FRIENDLIES",
+      "sport": "Football",
+      "home": "ARS",
+      "away": "BCN",
+      "status": "upcoming",
+      "kickoff": "2026-10-25T22:05:00.000Z",
+      "servers": []
     }
   ],
   "highlights": [],
