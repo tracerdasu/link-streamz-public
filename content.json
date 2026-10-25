@@ -283,6 +283,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Server 2",
+          "url": "https://tims-nl-0001.uzhi.ru/main/secure/89c6ba7e719de060bed3460d139dd34e388ff3b0dfe80de4c878608ec93124aa/1792965822/abc-usa.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     }
