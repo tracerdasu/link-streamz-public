@@ -313,6 +313,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Server 5",
+          "url": "https://liveplay1.camel4.live/live/sd-6MweaGxUXySPzq6xr3_md.m3u8?txSecret=9fbca742bb7d3e9b9ffef7e670b4221f&txTime=6ADE6E36&lat=9000",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     }
