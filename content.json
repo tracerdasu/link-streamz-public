@@ -273,7 +273,18 @@
       "away": "RMD",
       "status": "upcoming",
       "kickoff": "2026-10-25T20:00:00.000Z",
-      "servers": []
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://a11.kora-plus.li/live/prem1.m3u8?token=mAvyHKp9KraMskHmAM5JxU5Q1u4&exp=1792960708",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [],
