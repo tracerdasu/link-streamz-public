@@ -264,69 +264,7 @@
       "badge": "https://www.footylogos.com/dls/logo/rgba-v1/real-madrid.png"
     }
   ],
-  "events": [
-    {
-      "id": 1792955566157,
-      "league": "La Liga",
-      "sport": "Football",
-      "home": "BCN",
-      "away": "RMD",
-      "status": "upcoming",
-      "kickoff": "2026-10-25T20:00:00.000Z",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://a11.kora-plus.li/live/prem1.m3u8?token=mAvyHKp9KraMskHmAM5JxU5Q1u4&exp=1792960708",
-          "quality": "HD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 2",
-          "url": "https://tims-nl-0001.uzhi.ru/main/secure/89c6ba7e719de060bed3460d139dd34e388ff3b0dfe80de4c878608ec93124aa/1792965822/abc-usa.m3u8",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 3",
-          "url": "https://tims-nl-0001.uzhi.ru/main/secure/0b55010b4e81e7492d27df9d0e5bf61eaadf36eeeac3c231c788717f0801afb2/1792965994/laliga-401882832.m3u8",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Camel",
-          "url": "https://liveplay1.camel4.live/live/27551_12568346_6ypq3nhvo1w0md7_md.m3u8?txSecret=5a50a062b5e745d72871563a52d4c2d7&txTime=6ADE6E05&lat=9000&auth=415c56ed936211be1c25a45b2e0d6b62",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 5",
-          "url": "https://liveplay1.camel4.live/live/sd-6MweaGxUXySPzq6xr3_md.m3u8?txSecret=9fbca742bb7d3e9b9ffef7e670b4221f&txTime=6ADE6E36&lat=9000",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    }
-  ],
+  "events": [],
   "highlights": [],
   "movies": [
     {
