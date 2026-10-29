@@ -674,6 +674,162 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1793293564266,
+      "name": "KBS TV",
+      "category": "General",
+      "country": "Uganda",
+      "initials": "KT",
+      "logo": "https://i.ibb.co/6Jy7HQkX/1790549649-kbs-logo-png.png",
+      "thumb": "https://i.ibb.co/6Jy7HQkX/1790549649-kbs-logo-png.png",
+      "thumbnail": "https://i.ibb.co/6Jy7HQkX/1790549649-kbs-logo-png.png",
+      "color1": "#7a3fff",
+      "color2": "#3f1f8a",
+      "program": "",
+      "videoUrl": "https://www.kbstv.co.ug/live/abr/720p/index.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://www.kbstv.co.ug/live/abr/720p/index.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1793293709803,
+      "name": "Bukedde 2",
+      "category": "General",
+      "country": "Uganda",
+      "initials": "B2",
+      "logo": "https://www.visiongroup.co.ug/wp-content/uploads/2022/12/bk2-product-371x347.jpg",
+      "thumb": "https://www.visiongroup.co.ug/wp-content/uploads/2022/12/bk2-product-371x347.jpg",
+      "thumbnail": "https://www.visiongroup.co.ug/wp-content/uploads/2022/12/bk2-product-371x347.jpg",
+      "color1": "#7a3fff",
+      "color2": "#3f1f8a",
+      "program": "",
+      "videoUrl": "https://stream.hydeinnovations.com/bukedde2flussonic/tracks-v1a1/mono.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://stream.hydeinnovations.com/bukedde2flussonic/tracks-v1a1/mono.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1793293881671,
+      "name": "Real Madrid TV",
+      "category": "Sports",
+      "country": "Spain",
+      "initials": "RMT",
+      "logo": "",
+      "thumb": "",
+      "thumbnail": "",
+      "color1": "#334155",
+      "color2": "#0f172a",
+      "program": "",
+      "videoUrl": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1793293942174,
+      "name": "Spark TV",
+      "category": "General",
+      "country": "Uganda",
+      "initials": "ST",
+      "logo": "",
+      "thumb": "",
+      "thumbnail": "",
+      "color1": "#eab308",
+      "color2": "#78350f",
+      "program": "",
+      "videoUrl": "https://ams-2629.antmedia.cloud/LiveApp/streams/spark2026.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://ams-2629.antmedia.cloud/LiveApp/streams/spark2026.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1793293994845,
+      "name": "FIFA",
+      "category": "Sports",
+      "country": "USA",
+      "initials": "FIF",
+      "logo": "",
+      "thumb": "",
+      "thumbnail": "",
+      "color1": "#16a34a",
+      "color2": "#065f1f",
+      "program": "",
+      "videoUrl": "https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/8283cc13-7f30-407f-9750-2b127c9b4e18/3.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/8283cc13-7f30-407f-9750-2b127c9b4e18/3.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1793294051522,
+      "name": "KSTV",
+      "category": "General",
+      "country": "Uganda",
+      "initials": "KST",
+      "logo": "",
+      "thumb": "",
+      "thumbnail": "",
+      "color1": "#ec4899",
+      "color2": "#831843",
+      "program": "",
+      "videoUrl": "https://live.esteem.africa/live/kstv-uganda-a3023c.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://live.esteem.africa/live/kstv-uganda-a3023c.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "vjs": [
