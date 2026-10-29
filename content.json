@@ -404,6 +404,29 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1793288127536,
+      "title": "A day",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Ulio",
+      "translated": true,
+      "thumb": "https://i.mydramalist.com/455rKs.jpg",
+      "duration": "1:10:01",
+      "videoUrl": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/A_Day_VJ_Ulio.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/A_Day_VJ_Ulio.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [],
