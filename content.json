@@ -264,7 +264,29 @@
       "badge": "https://www.footylogos.com/dls/logo/rgba-v1/real-madrid.png"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": 1793367102313,
+      "league": "Africa Cup of Nations",
+      "sport": "Baseball",
+      "home": "BCN",
+      "away": "ARS",
+      "status": "live",
+      "minute": "11+7",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://cdn.wideiptv.top/skysportsmainevent/tracks-v1a1/mono.m3u8?token=c2t5c3BvcnRzbWFpbmV2ZW50fG5vX2NoZWNrX2lwfDE3OTMzNjczMTk=.dc90b901a5f29d45e5565ecbe5cfcc20477a0b601bd7a56f308bad4cfd271d42",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    }
+  ],
   "highlights": [],
   "movies": [
     {
