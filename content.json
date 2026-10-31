@@ -285,6 +285,27 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1793460835792,
+      "league": "Africa Cup of Nations",
+      "sport": "Football",
+      "home": "AG",
+      "away": "BCN",
+      "status": "live",
+      "minute": "5",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://tims-001.sytes.net/main/secure/4a543b688bb6c7dcbd5b62d33aa8c3195a556b853cfbde1fe38d34b2b8da8fa7/1793469040/premierleague-401879245.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [],
