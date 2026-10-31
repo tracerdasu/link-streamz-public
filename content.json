@@ -264,7 +264,29 @@
       "badge": "https://www.footylogos.com/dls/logo/rgba-v1/real-madrid.png"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": 1793456790089,
+      "league": "Premier League",
+      "sport": "Football",
+      "home": "CHL",
+      "away": "MNCU",
+      "status": "live",
+      "minute": "90+8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://tims-001.sytes.net/main/secure/91d242d60834cdedea5639dae3528feefc315f8b3e338bad91294fa0565ecf0a/1793460630/tntsports1-uk.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    }
+  ],
   "highlights": [],
   "movies": [
     {
