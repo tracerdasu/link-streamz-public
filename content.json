@@ -328,6 +328,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Server 2",
+          "url": "https://a11.kora-plus.li/live/daznit.m3u8?token=cohp48yqdnGIKw9Zb6TYc6WLMMM&exp=1793541426",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     }
