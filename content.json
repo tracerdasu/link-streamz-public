@@ -267,6 +267,16 @@
       "code": "ST",
       "name": "Racing Santander",
       "badge": "https://images.seeklogo.com/logo-png/11/1/real-racing-club-santander-logo-png_seeklogo-116435.png"
+    },
+    {
+      "code": "NP",
+      "name": "Napoli",
+      "badge": "https://assets.football-logos.cc/logos/italy/512x512/napoli.cbf9f0a6.png"
+    },
+    {
+      "code": "JV",
+      "name": "Juventus",
+      "badge": "https://assets.football-logos.cc/logos/italy/512x512/juventus.4efced70.png"
     }
   ],
   "events": [
@@ -288,6 +298,16 @@
       "away": "RMD",
       "status": "upcoming",
       "kickoff": "2026-11-01T15:15:00.000Z",
+      "servers": []
+    },
+    {
+      "id": 1793527456827,
+      "league": "Serie A",
+      "sport": "Football",
+      "home": "JV",
+      "away": "NP",
+      "status": "upcoming",
+      "kickoff": "2026-11-01T19:45:00.000Z",
       "servers": []
     }
   ],
