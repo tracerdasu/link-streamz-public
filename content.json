@@ -262,6 +262,11 @@
       "code": "RMD",
       "name": "Real Madrid",
       "badge": "https://www.footylogos.com/dls/logo/rgba-v1/real-madrid.png"
+    },
+    {
+      "code": "ST",
+      "name": "Racing Santander",
+      "badge": "https://images.seeklogo.com/logo-png/11/1/real-racing-club-santander-logo-png_seeklogo-116435.png"
     }
   ],
   "events": [
@@ -273,6 +278,16 @@
       "away": "ARS",
       "status": "upcoming",
       "kickoff": "2026-11-01T16:30:00.000Z",
+      "servers": []
+    },
+    {
+      "id": 1793527028674,
+      "league": "La Liga",
+      "sport": "Football",
+      "home": "ST",
+      "away": "RMD",
+      "status": "upcoming",
+      "kickoff": "2026-11-01T15:15:00.000Z",
       "servers": []
     }
   ],
