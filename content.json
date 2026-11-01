@@ -266,17 +266,17 @@
   ],
   "events": [
     {
-      "id": 1793456790089,
-      "league": "Premier League",
+      "id": 1793498704192,
+      "league": "Asian Games",
       "sport": "Football",
-      "home": "MC",
-      "away": "TS",
+      "home": "BCN",
+      "away": "ARS",
       "status": "live",
-      "minute": "30",
+      "minute": "5",
       "servers": [
         {
-          "name": "Server 32",
-          "url": "https://tims-001.sytes.net/main/secure/4a543b688bb6c7dcbd5b62d33aa8c3195a556b853cfbde1fe38d34b2b8da8fa7/1793469040/premierleague-401879245.m3u8",
+          "name": "Server 1",
+          "url": "https://tims-001.sytes.net/main/secure/e5590ababa5ec3e2d9677eff16a31ddea50f4c2e99d05305fa15cf0b0637e10c/1793507570/embedcx-5.m3u8",
           "quality": "SD",
           "status": "stable",
           "recommended": true,
@@ -287,17 +287,17 @@
       ]
     },
     {
-      "id": 1793460835792,
-      "league": "Africa Cup of Nations",
+      "id": 1793498751533,
+      "league": "",
       "sport": "Football",
-      "home": "AG",
-      "away": "BCN",
+      "home": "ARS",
+      "away": "AG",
       "status": "live",
-      "minute": "5",
+      "minute": "4",
       "servers": [
         {
           "name": "Server 1",
-          "url": "https://tims-001.sytes.net/main/secure/4a543b688bb6c7dcbd5b62d33aa8c3195a556b853cfbde1fe38d34b2b8da8fa7/1793469040/premierleague-401879245.m3u8",
+          "url": "https://edgestream6.pro/hls/bnvcxwhfg54.m3u8?st=gABkDVUrxvaMXG_c0qNvSgGYnfr8x4z7-jvTbPie06Y&e=1793509308",
           "quality": "SD",
           "status": "stable",
           "recommended": true,
