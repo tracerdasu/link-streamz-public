@@ -288,7 +288,88 @@
       "away": "ARS",
       "status": "upcoming",
       "kickoff": "2026-11-01T16:30:00.000Z",
-      "servers": []
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://a11.kora-plus.li/live/b1.m3u8?token=XVYHDisWNNB1jJjuxAdSnItKW78&exp=1793552471",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 2",
+          "url": "https://58b33x.awqb0f40a9yo.net:8443/hls/fkll6msedddff.m3u8?s=VyT5_eU8KGvICZznND42SQ&e=1793570451",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 3",
+          "url": "https://58b33x.awqb0f40a9yo.net:8443/hls/yxttqyj4clmux.m3u8?s=NizzO0A_oo8565MIadc1QA&e=1793570445",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 4",
+          "url": "https://58b33x.awqb0f40a9yo.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=lxDh4oMq_RhMgeSnbT-FBg&e=1793570436",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 5",
+          "url": "https://a13.kora-plus.li/live/main.m3u8?token=J7M-BZC0nfRJRtJZzBg3gjeio8E&exp=1793552399",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 6",
+          "url": "https://3.ftlly.com/espn/mono.m3u8?token=82ab04c4643b4a3b07549e6530410e4f9e15a11c-54-1793565725-1793547725",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 7",
+          "url": "https://tims-001.sytes.net/main/secure/5b168e707a86513f38980aee4c1b34807c34edd560b6679aaea5389d2005926e/1793557586/skysportspremierleague-uk.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 8",
+          "url": "https://tims-001.sytes.net/main/secure/29458959db25ede897681e1ed3fcdcddf977de79249c608d19434e6f28685186/1793557570/embedcx-pl.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     },
     {
       "id": 1793527028674,
