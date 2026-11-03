@@ -225,7 +225,7 @@
     },
     {
       "code": "MNCU",
-      "name": "Manchester United",
+      "name": "Man United",
       "badge": "https://assets.football-logos.cc/logos/england/512x512/manchester-united.92071bee.png"
     },
     {
@@ -277,6 +277,11 @@
       "code": "JV",
       "name": "Juventus",
       "badge": "https://assets.football-logos.cc/logos/italy/512x512/juventus.4efced70.png"
+    },
+    {
+      "code": "ASR",
+      "name": "As Roma",
+      "badge": "https://assets.football-logos.cc/logos/italy/512x512/roma.8dfa8968.png"
     }
   ],
   "events": [],
