@@ -284,7 +284,29 @@
       "badge": "https://assets.football-logos.cc/logos/italy/512x512/roma.8dfa8968.png"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": 1793734366674,
+      "league": "UEFA Champions League",
+      "sport": "Football",
+      "home": "MNCU",
+      "away": "ASR",
+      "status": "upcoming",
+      "kickoff": "2026-11-03T20:00:00.000Z",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://a15.kora-plus.li/live/prem1.m3u8?token=VfIo8055RwlJsneASqURbdD_RKs&exp=1793737619",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    }
+  ],
   "highlights": [],
   "movies": [
     {
