@@ -305,6 +305,16 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1793734662478,
+      "league": "",
+      "sport": "Football",
+      "home": "ARS",
+      "away": "AG",
+      "status": "upcoming",
+      "kickoff": "2026-11-03T20:40:00.000Z",
+      "servers": []
     }
   ],
   "highlights": [],
