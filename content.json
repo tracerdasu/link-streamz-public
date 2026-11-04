@@ -314,6 +314,16 @@
           "url": "https://tims-001.sytes.net/main/secure/981cf719156b5f8ef59983eb9eb12837fb4ec3cfa529ce2215155217087f2ca5/1793829405/eflchampionship-401880175.m3u8",
           "quality": "SD",
           "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 2",
+          "url": "https://liveplay1.camel4.live/live/sd-6MweZwRyhDRR1514CP.m3u8?txSecret=972c0403a73a48b5fc2a1cefaaaed349&txTime=6AEB8D28&lat=9000&auth=792c3da4310f30f7b5f1520d8a19bb5e",
+          "quality": "SD",
+          "status": "stable",
           "recommended": true,
           "useProxy": false,
           "delaySeconds": null,
