@@ -339,7 +339,18 @@
       "away": "ARS",
       "status": "upcoming",
       "kickoff": "2026-11-04T20:00:00.000Z",
-      "servers": []
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://a16.kora-plus.li/live/tnt1.m3u8?token=TfNySiOsJA3HGi9AJPpigY2Tp7k&exp=1793825459",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [],
