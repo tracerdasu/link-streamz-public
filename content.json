@@ -282,38 +282,27 @@
       "code": "ASR",
       "name": "As Roma",
       "badge": "https://assets.football-logos.cc/logos/italy/512x512/roma.8dfa8968.png"
+    },
+    {
+      "code": "CDF",
+      "name": "Cardiff City",
+      "badge": "https://imgs.search.brave.com/RDGOsqAcmZHHYPUp4BQ6o438BcJxS_ttmvzqkGuOG5k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9lbi90aHVtYi8z/LzNjL0NhcmRpZmZf/Q2l0eV9jcmVzdC5z/dmcvMTI4MHB4LUNh/cmRpZmZfQ2l0eV9j/cmVzdC5zdmcucG5n/P3V0bV9zb3VyY2U9/ZW4ud2lraXBlZGlh/Lm9yZyZhbXA7dXRt/X2NhbXBhaWduPWlu/ZGV4JmFtcDt1dG1f/Y29udGVudD10aHVt/Ym5haWw"
+    },
+    {
+      "code": "WTN",
+      "name": "Westham United",
+      "badge": "https://storage.lsmedia1.com/images/team/high/enet/8654.png"
     }
   ],
   "events": [
     {
-      "id": 1793734366674,
-      "league": "UEFA Champions League",
+      "id": 1793819795641,
+      "league": "English Championship",
       "sport": "Football",
-      "home": "MNCU",
-      "away": "ASR",
+      "home": "CDF",
+      "away": "WTN",
       "status": "upcoming",
-      "kickoff": "2026-11-03T20:00:00.000Z",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://a15.kora-plus.li/live/prem1.m3u8?token=VfIo8055RwlJsneASqURbdD_RKs&exp=1793737619",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    },
-    {
-      "id": 1793734662478,
-      "league": "",
-      "sport": "Football",
-      "home": "ARS",
-      "away": "AG",
-      "status": "upcoming",
-      "kickoff": "2026-11-03T20:40:00.000Z",
+      "kickoff": "2026-11-04T19:45:00.000Z",
       "servers": []
     }
   ],
