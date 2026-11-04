@@ -297,6 +297,11 @@
       "code": "SPL",
       "name": "Slavia Prague",
       "badge": "https://storage.lsmedia1.com/images/team/high/enet/7787.png"
+    },
+    {
+      "code": "RBL",
+      "name": "RB Liepzig",
+      "badge": "https://imgs.search.brave.com/KptoKAyYL8H5ZnEWUxwQ0s-QNi3BqR2JW2s3jEpCjQA/rs:fit:100:100:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hcGktc3BvcnRz/LmlvL2Zvb3RiYWxs/L3RlYW1zLzE3My5w/bmc"
     }
   ],
   "events": [
@@ -343,6 +348,27 @@
         {
           "name": "Server 1",
           "url": "https://a16.kora-plus.li/live/tnt1.m3u8?token=TfNySiOsJA3HGi9AJPpigY2Tp7k&exp=1793825459",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1793824736820,
+      "league": "UEFA Champions League",
+      "sport": "Football",
+      "home": "RBL",
+      "away": "MC",
+      "status": "live",
+      "minute": "39",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://a16.kora-plus.li/live/tnt2.m3u8?token=ABTTB-059YBMVbKQBWcsygzILN0&exp=1793828150",
           "quality": "SD",
           "status": "stable",
           "recommended": true,
