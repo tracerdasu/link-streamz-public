@@ -354,6 +354,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Server 2",
+          "url": "https://a11.kora-plus.li/live/tnt1.m3u8?token=CPPzvbBW-_UALjxpOK37pPfNFLc&exp=1793830876",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     },
