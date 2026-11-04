@@ -541,6 +541,29 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1793825817807,
+      "title": "The Naked Soldier",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Emmy",
+      "translated": true,
+      "thumb": "https://m.media-amazon.com/images/M/MV5BNTVlNmRiM2EtMTRiZS00MGE4LTk0NDUtMWNiNWNjYmEzMThmXkEyXkFqcGc@._V1_.jpg",
+      "duration": "1:33:00",
+      "videoUrl": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Naked_Soldier_VJ_Emmy.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Naked_Soldier_VJ_Emmy.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [],
