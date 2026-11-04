@@ -292,6 +292,11 @@
       "code": "WTN",
       "name": "Westham United",
       "badge": "https://storage.lsmedia1.com/images/team/high/enet/8654.png"
+    },
+    {
+      "code": "SPL",
+      "name": "Slavia Prague",
+      "badge": "https://storage.lsmedia1.com/images/team/high/enet/7787.png"
     }
   ],
   "events": [
@@ -303,6 +308,16 @@
       "away": "WTN",
       "status": "upcoming",
       "kickoff": "2026-11-04T19:45:00.000Z",
+      "servers": []
+    },
+    {
+      "id": 1793820022759,
+      "league": "UEFA Champions League",
+      "sport": "Football",
+      "home": "SPL",
+      "away": "ARS",
+      "status": "upcoming",
+      "kickoff": "2026-11-04T20:00:00.000Z",
       "servers": []
     }
   ],
