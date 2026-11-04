@@ -308,7 +308,18 @@
       "away": "WTN",
       "status": "upcoming",
       "kickoff": "2026-11-04T19:45:00.000Z",
-      "servers": []
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://tims-001.sytes.net/main/secure/981cf719156b5f8ef59983eb9eb12837fb4ec3cfa529ce2215155217087f2ca5/1793829405/eflchampionship-401880175.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     },
     {
       "id": 1793820022759,
