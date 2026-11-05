@@ -304,7 +304,29 @@
       "badge": "https://imgs.search.brave.com/KptoKAyYL8H5ZnEWUxwQ0s-QNi3BqR2JW2s3jEpCjQA/rs:fit:100:100:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hcGktc3BvcnRz/LmlvL2Zvb3RiYWxs/L3RlYW1zLzE3My5w/bmc"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": 1793903520110,
+      "league": "Asian Games",
+      "sport": "Football",
+      "home": "TS",
+      "away": "TS2",
+      "status": "live",
+      "minute": "0",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://a12.kora-plus.li/live/tnt4.m3u8?token=640_xPgo-VpNmgPsiguFMJKf7UU&exp=1793906937",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    }
+  ],
   "highlights": [],
   "movies": [
     {
