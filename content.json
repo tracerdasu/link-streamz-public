@@ -304,29 +304,7 @@
       "badge": "https://imgs.search.brave.com/KptoKAyYL8H5ZnEWUxwQ0s-QNi3BqR2JW2s3jEpCjQA/rs:fit:100:100:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hcGktc3BvcnRz/LmlvL2Zvb3RiYWxs/L3RlYW1zLzE3My5w/bmc"
     }
   ],
-  "events": [
-    {
-      "id": 1793903520110,
-      "league": "Asian Games",
-      "sport": "Football",
-      "home": "TS",
-      "away": "TS2",
-      "status": "live",
-      "minute": "0",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://a12.kora-plus.li/live/tnt4.m3u8?token=640_xPgo-VpNmgPsiguFMJKf7UU&exp=1793906937",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    }
-  ],
+  "events": [],
   "highlights": [],
   "movies": [
     {
@@ -504,6 +482,29 @@
         {
           "name": "Server 1",
           "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Naked_Soldier_VJ_Emmy.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1793908246929,
+      "title": "The Awakening",
+      "genre": "DOCUMENTARY",
+      "year": 2026,
+      "vj": "VJ Emmy",
+      "translated": true,
+      "thumb": "https://m.media-amazon.com/images/M/MV5BNzBhYjRkMjQtODAwYS00MzFiLWI5YWMtZjNiYzNlMjQwMDdmXkEyXkFqcGc@._V1_.jpg",
+      "duration": "2:00:00",
+      "videoUrl": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/The_Awakening_VJ_Emmy.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/The_Awakening_VJ_Emmy.mp4",
           "quality": "HD",
           "status": "stable",
           "recommended": true,
