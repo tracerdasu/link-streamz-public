@@ -948,6 +948,32 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1793991684317,
+      "name": "Sky F1",
+      "category": "Sports",
+      "country": "USA",
+      "initials": "SF",
+      "logo": "https://static.cdnlogo.com/logos/s/40/sky-sports-thumb.png",
+      "thumb": "https://static.cdnlogo.com/logos/s/40/sky-sports-thumb.png",
+      "thumbnail": "https://static.cdnlogo.com/logos/s/40/sky-sports-thumb.png",
+      "color1": "#7a3fff",
+      "color2": "#3f1f8a",
+      "program": "",
+      "videoUrl": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "vjs": [
