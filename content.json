@@ -314,7 +314,18 @@
       "badge": "https://buffstreams24.org/assets/images/logos/everton.webp"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": 1793984257732,
+      "league": "Premier League",
+      "sport": "Football",
+      "home": "EVTN",
+      "away": "CCB",
+      "status": "upcoming",
+      "kickoff": "2026-11-06T20:00:00.000Z",
+      "servers": []
+    }
+  ],
   "highlights": [],
   "movies": [
     {
