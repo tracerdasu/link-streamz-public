@@ -302,31 +302,19 @@
       "code": "RBL",
       "name": "RB Liepzig",
       "badge": "https://imgs.search.brave.com/KptoKAyYL8H5ZnEWUxwQ0s-QNi3BqR2JW2s3jEpCjQA/rs:fit:100:100:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hcGktc3BvcnRz/LmlvL2Zvb3RiYWxs/L3RlYW1zLzE3My5w/bmc"
-    }
-  ],
-  "events": [
+    },
     {
-      "id": 1793915963370,
-      "league": "Asian Games",
-      "sport": "American football",
-      "home": "TS",
-      "away": "TS2",
-      "status": "live",
-      "minute": "0",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://a12.kora-plus.li/live/tnt4.m3u8?token=4pccqDQLaohFtvcEYWvo1Zj02jA&exp=1793919500",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
+      "code": "CCB",
+      "name": "Coventry",
+      "badge": "https://buffstreams24.org/assets/images/logos/coventry-city.webp"
+    },
+    {
+      "code": "EVTN",
+      "name": "Everton",
+      "badge": "https://buffstreams24.org/assets/images/logos/everton.webp"
     }
   ],
+  "events": [],
   "highlights": [],
   "movies": [
     {
@@ -725,32 +713,6 @@
           "quality": "SD",
           "status": "stable",
           "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    },
-    {
-      "id": 1791394656706,
-      "name": "DYNAMIC SPORTS CHANNEL",
-      "category": "Sports",
-      "country": "USA",
-      "initials": "PS2",
-      "logo": "",
-      "thumb": "",
-      "thumbnail": "",
-      "color1": "#16a34a",
-      "color2": "#065f1f",
-      "program": "",
-      "videoUrl": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8",
-          "quality": "HD",
-          "status": "stable",
-          "recommended": true,
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
