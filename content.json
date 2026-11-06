@@ -333,6 +333,16 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Server 2",
+          "url": "https://liveplay1.camel4.live/live/hd-en-6MwdqQj2xBawkHDBvP_md.m3u8?txSecret=3b9859d569ad568d49d972d812cf4138&txTime=6AEE3CB9&lat=9000&auth=792c3da4310f30f7b5f1520d8a19bb5e",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     }
