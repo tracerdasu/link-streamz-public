@@ -747,12 +747,12 @@
       "category": "Sports",
       "country": "USA",
       "initials": "EUR",
-      "logo": "",
-      "thumb": "",
-      "thumbnail": "",
+      "logo": "https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011-700x394.png",
+      "thumb": "https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011-700x394.png",
+      "thumbnail": "https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-2011-700x394.png",
       "color1": "#7a3fff",
       "color2": "#3f1f8a",
-      "program": "",
+      "program": "VPN",
       "videoUrl": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8",
       "servers": [
         {
