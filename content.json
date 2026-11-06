@@ -1007,6 +1007,32 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794002348533,
+      "name": "CBS Sports HQ",
+      "category": "News",
+      "country": "USA",
+      "initials": "CSH",
+      "logo": "",
+      "thumb": "",
+      "thumbnail": "",
+      "color1": "#1a6dff",
+      "color2": "#003bb0",
+      "program": "",
+      "videoUrl": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "vjs": [
