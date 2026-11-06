@@ -323,7 +323,18 @@
       "away": "CCB",
       "status": "upcoming",
       "kickoff": "2026-11-06T20:00:00.000Z",
-      "servers": []
+      "servers": [
+        {
+          "name": "Watch movie",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/One_Night_Only_VJ_Junior.mp4",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [],
