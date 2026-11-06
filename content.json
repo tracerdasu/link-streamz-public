@@ -325,8 +325,8 @@
       "kickoff": "2026-11-06T20:00:00.000Z",
       "servers": [
         {
-          "name": "Watch movie",
-          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/One_Night_Only_VJ_Junior.mp4",
+          "name": "Server 1",
+          "url": "https://a15.kora-plus.li/live/main.m3u8?token=dGI6lwRh30OE559XHEI4Asg0qF0&exp=1793996260",
           "quality": "SD",
           "status": "stable",
           "recommended": true,
