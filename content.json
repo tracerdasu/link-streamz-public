@@ -1023,6 +1023,32 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794036340656,
+      "name": "BBC NEWS",
+      "category": "News",
+      "country": "USA",
+      "initials": "BN",
+      "logo": "https://ugaflix.com/upload/images/bbc_news_logo.jpg",
+      "thumb": "https://ugaflix.com/upload/images/bbc_news_logo.jpg",
+      "thumbnail": "https://ugaflix.com/upload/images/bbc_news_logo.jpg",
+      "color1": "#7a3fff",
+      "color2": "#3f1f8a",
+      "program": "",
+      "videoUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "vjs": [
