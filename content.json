@@ -1182,6 +1182,33 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794057531478,
+      "name": "ESPN America",
+      "category": "Sports",
+      "country": "USA",
+      "initials": "EA",
+      "logo": "",
+      "thumb": "",
+      "thumbnail": "",
+      "color1": "#f97316",
+      "color2": "#7c2d12",
+      "program": "",
+      "videoUrl": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2-video=2400000.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2-video=2400000.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {},
+          "audio": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2-audio_spa=128000.m3u8"
+        }
+      ]
     }
   ],
   "vjs": [
