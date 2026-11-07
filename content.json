@@ -314,39 +314,7 @@
       "badge": "https://buffstreams24.org/assets/images/logos/everton.webp"
     }
   ],
-  "events": [
-    {
-      "id": 1793984257732,
-      "league": "Premier League",
-      "sport": "Football",
-      "home": "EVTN",
-      "away": "CCB",
-      "status": "upcoming",
-      "kickoff": "2026-11-06T20:00:00.000Z",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://a15.kora-plus.li/live/main.m3u8?token=dGI6lwRh30OE559XHEI4Asg0qF0&exp=1793996260",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 2",
-          "url": "https://liveplay1.camel4.live/live/hd-en-6MwdqQj2xBawkHDBvP_md.m3u8?txSecret=3b9859d569ad568d49d972d812cf4138&txTime=6AEE3CB9&lat=9000&auth=792c3da4310f30f7b5f1520d8a19bb5e",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    }
-  ],
+  "events": [],
   "highlights": [],
   "movies": [
     {
@@ -547,29 +515,6 @@
         {
           "name": "Server 1",
           "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/The_Awakening_VJ_Emmy.mp4",
-          "quality": "HD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    },
-    {
-      "id": 1793997364866,
-      "title": "Time bound",
-      "genre": "ACTION",
-      "year": 2026,
-      "vj": "VJ Emmy",
-      "translated": true,
-      "thumb": "https://idiva-media.ilnmedia.com/content/2025/Apr/3_67f38095f135d.jpg",
-      "duration": "2:00:00",
-      "videoUrl": "https://s3.eu-central-003.backblazeb2.com/bigpuhh.kawogomovies.site/%20OCT/MOVIES/EMMY/APOCALYPSE%20Z%20NEW%20WORLD%202026%20VJ%20EMMY%201080p%20%28NO%27S%29.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00318231898a4570000000002%2F20261106%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20261106T202741Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&X-Amz-Signature=17963a2503702a03987407d678644d5e916a31bcf15c2ee73fd644e172b743c5",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://s3.eu-central-003.backblazeb2.com/bigpuhh.kawogomovies.site/%20OCT/MOVIES/EMMY/APOCALYPSE%20Z%20NEW%20WORLD%202026%20VJ%20EMMY%201080p%20%28NO%27S%29.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00318231898a4570000000002%2F20261106%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20261106T202741Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&X-Amz-Signature=17963a2503702a03987407d678644d5e916a31bcf15c2ee73fd644e172b743c5",
           "quality": "HD",
           "status": "stable",
           "recommended": true,
