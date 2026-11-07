@@ -1156,6 +1156,32 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794056736519,
+      "name": "INTER TV",
+      "category": "Sports",
+      "country": "USA",
+      "initials": "IT",
+      "logo": "",
+      "thumb": "",
+      "thumbnail": "",
+      "color1": "#334155",
+      "color2": "#0f172a",
+      "program": "",
+      "videoUrl": "https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "vjs": [
