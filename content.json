@@ -1209,6 +1209,84 @@
           "audio": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2-audio_spa=128000.m3u8"
         }
       ]
+    },
+    {
+      "id": 1794058060503,
+      "name": "NBC Sports",
+      "category": "Sports",
+      "country": "USA",
+      "initials": "NS",
+      "logo": "",
+      "thumb": "",
+      "thumbnail": "",
+      "color1": "#16a34a",
+      "color2": "#065f1f",
+      "program": "",
+      "videoUrl": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/ef2f0eea-fe53-44de-82b1-a14f743b2e5d/0.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/ef2f0eea-fe53-44de-82b1-a14f743b2e5d/0.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1794058097418,
+      "name": "FS1",
+      "category": "Sports",
+      "country": "USA",
+      "initials": "FS1",
+      "logo": "",
+      "thumb": "",
+      "thumbnail": "",
+      "color1": "#eab308",
+      "color2": "#78350f",
+      "program": "",
+      "videoUrl": "https://tvsen7.aynascope.net/foxsports1/tracks-v1a1/mono.ts.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://tvsen7.aynascope.net/foxsports1/tracks-v1a1/mono.ts.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1794058133662,
+      "name": "FS2",
+      "category": "Sports",
+      "country": "USA",
+      "initials": "FS2",
+      "logo": "",
+      "thumb": "",
+      "thumbnail": "",
+      "color1": "#ec4899",
+      "color2": "#831843",
+      "program": "",
+      "videoUrl": "https://tvsen7.aynascope.net/foxsports2/tracks-v1a1/mono.ts.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://tvsen7.aynascope.net/foxsports2/tracks-v1a1/mono.ts.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "vjs": [
