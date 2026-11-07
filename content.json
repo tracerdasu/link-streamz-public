@@ -1130,6 +1130,32 @@
           "audio": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/chunklist__audio0.m3u8"
         }
       ]
+    },
+    {
+      "id": 1794056024909,
+      "name": "CBS HQ",
+      "category": "Sports",
+      "country": "Uganda",
+      "initials": "CH",
+      "logo": "",
+      "thumb": "",
+      "thumbnail": "",
+      "color1": "#ec4899",
+      "color2": "#831843",
+      "program": "",
+      "videoUrl": "https://propee33f9c2.airspace-cdn.cbsivideo.com/index-english=128000-video=449984.m3u8",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://propee33f9c2.airspace-cdn.cbsivideo.com/index-english=128000-video=449984.m3u8",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "vjs": [
