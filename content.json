@@ -666,6 +666,29 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794341688721,
+      "title": "Titan",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Ulio",
+      "translated": true,
+      "thumb": "https://m.media-amazon.com/images/M/MV5BZGIyYTE0ZjgtZjUyZC00NGVhLTk5OTQtNTBkOWFjZDRmZDZkXkEyXkFqcGc@._V1_.jpg",
+      "duration": "1:00:00",
+      "videoUrl": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Titan__The_OceanGate_Submersible_Disaster_VJ_Ulio.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Titan__The_OceanGate_Submersible_Disaster_VJ_Ulio.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [],
