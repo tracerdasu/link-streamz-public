@@ -410,6 +410,47 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794507079781,
+      "league": "CLUB FRIENDLIES",
+      "sport": "Baseball",
+      "home": "TS2",
+      "away": "ASR",
+      "status": "live",
+      "minute": "29",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://a12.kora-plus.li/live/b1.m3u8?token=Dj6xcORmwSZtEEEdppIy1St8egU&exp=1794510578",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 2",
+          "url": "https://a14.kora-plus.li/live/tf1.m3u8?token=8B9YMZeR1Fpetb9uGQ5rUSylg08&exp=1794510569",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 3",
+          "url": "https://a13.kora-plus.li/live/fox1.m3u8?token=QyNhWWgNqiF54ek1BJaqtXv3t3w&exp=1794510545",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [],
