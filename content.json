@@ -689,6 +689,29 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794502448572,
+      "title": "Heart of the beast",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Emmy",
+      "translated": true,
+      "thumb": "https://upload.wikimedia.org/wikipedia/en/4/49/Heart_of_the_Beast_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "duration": "1:00:00",
+      "videoUrl": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Heart_of_the_Beast_VJ_Emmy.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Heart_of_the_Beast_VJ_Emmy.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [],
