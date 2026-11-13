@@ -323,6 +323,18 @@
       "away": "TS2",
       "status": "live",
       "minute": "0",
+      "tvBadge": {
+        "card": {
+          "x": 67,
+          "y": 4,
+          "w": 30
+        },
+        "player": {
+          "x": 75,
+          "y": 4,
+          "w": 22
+        }
+      },
       "servers": [
         {
           "name": "Server 1",
