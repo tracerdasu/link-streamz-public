@@ -1451,9 +1451,9 @@
           "w": 30
         },
         "player": {
-          "x": 82,
-          "y": 3,
-          "w": 16
+          "x": 79,
+          "y": 6,
+          "w": 17
         }
       },
       "videoUrl": "https://www.kbstv.co.ug/live/abr/720p/index.m3u8",
