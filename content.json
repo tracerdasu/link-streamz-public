@@ -323,18 +323,6 @@
       "away": "TS2",
       "status": "live",
       "minute": "0",
-      "tvBadge": {
-        "card": {
-          "x": 67,
-          "y": 4,
-          "w": 30
-        },
-        "player": {
-          "x": 75,
-          "y": 4,
-          "w": 22
-        }
-      },
       "servers": [
         {
           "name": "Server 1",
@@ -458,6 +446,27 @@
           "quality": "SD",
           "status": "stable",
           "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1794534630057,
+      "league": "Asian Games",
+      "sport": "Football",
+      "home": "ARS",
+      "away": "AG",
+      "status": "live",
+      "minute": "7",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/49/Heart_of_the_Beast_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
