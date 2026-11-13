@@ -369,27 +369,6 @@
       ]
     },
     {
-      "id": 1794058918567,
-      "league": "Premier League",
-      "sport": "Football",
-      "home": "LDU",
-      "away": "TNM",
-      "status": "live",
-      "minute": "4",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://liveplay1.camel4.live/live/27551_12551406_965mkyhk9xo8r1g_md.m3u8?txSecret=12d431f18a9356469027288f966143c5&txTime=6AEF2B47&lat=9000&auth=70e0a0234ae7dc2a1745cff996be416f",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    },
-    {
       "id": 1794507079781,
       "league": "CLUB FRIENDLIES",
       "sport": "Baseball",
@@ -424,27 +403,6 @@
           "quality": "SD",
           "status": "stable",
           "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
-    },
-    {
-      "id": 1794534630057,
-      "league": "Asian Games",
-      "sport": "Football",
-      "home": "ARS",
-      "away": "AG",
-      "status": "live",
-      "minute": "7",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://upload.wikimedia.org/wikipedia/en/4/49/Heart_of_the_Beast_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
