@@ -472,6 +472,39 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794535271258,
+      "league": "Asian Games",
+      "sport": "Football",
+      "home": "ASR",
+      "away": "BCN",
+      "status": "live",
+      "minute": "3",
+      "tvBadge": {
+        "card": {
+          "x": 67,
+          "y": 6,
+          "w": 30
+        },
+        "player": {
+          "x": 79,
+          "y": 5,
+          "w": 18
+        }
+      },
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [],
