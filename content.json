@@ -110,6 +110,10 @@
     {
       "name": "English Championship",
       "sport": "Football"
+    },
+    {
+      "name": "AFCON qualifications",
+      "sport": "Football"
     }
   ],
   "teams": [
@@ -312,6 +316,16 @@
       "code": "EVTN",
       "name": "Everton",
       "badge": "https://buffstreams24.org/assets/images/logos/everton.webp"
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "badge": "https://buffstreams24.org/assets/images/logos/uganda.webp"
+    },
+    {
+      "code": "BOT",
+      "name": "Botswana",
+      "badge": "https://buffstreams24.org/assets/images/logos/botswana.webp"
     }
   ],
   "events": [
@@ -441,6 +455,16 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794664128168,
+      "league": "AFCON qualifications",
+      "sport": "Football",
+      "home": "UG",
+      "away": "BOT",
+      "status": "upcoming",
+      "kickoff": "2026-11-14T16:00:00.000Z",
+      "servers": []
     }
   ],
   "highlights": [],
