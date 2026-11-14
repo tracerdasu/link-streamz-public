@@ -790,6 +790,41 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794678784994,
+      "title": "Simon",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Ulio",
+      "translated": true,
+      "thumb": "https://m.media-amazon.com/images/M/MV5BZTM1ODcyYmYtYmE5Zi00NWU4LWJjY2ItMzVkZWUzODAxYTM5XkEyXkFqcGc@._V1_.jpg",
+      "tvBadge": {
+        "card": {
+          "x": 4,
+          "y": 6,
+          "w": 30
+        },
+        "player": {
+          "x": 82,
+          "y": 4,
+          "w": 15
+        }
+      },
+      "duration": "1:00:00",
+      "videoUrl": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Simon_VJ_Ulio.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-86fb3181579649118df994b2cd3cb437.r2.dev/Simon_VJ_Ulio.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [],
