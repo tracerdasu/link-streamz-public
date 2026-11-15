@@ -3,7 +3,7 @@
     "defaultDelaySeconds": 20
   },
   "appUpdate": {
-    "enabled": false,
+    "enabled": true,
     "minVersion": "3.1.2",
     "apkUrl": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/latest-update-link-streamz.apk",
     "message": "Update is required"
