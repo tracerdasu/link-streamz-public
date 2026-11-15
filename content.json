@@ -865,6 +865,34 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794766747064,
+      "title": "Beware",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Emmy",
+      "translated": true,
+      "thumb": "https://m.media-amazon.com/images/M/MV5BMDQxZDM1NGYtOTlmMS00ZDUxLWJlNDEtZjRiMGIyNzZmM2U0XkEyXkFqcGc@._V1_.jpg",
+      "timeLimited": {
+        "startAt": "2026-11-15T21:40:00+03:00",
+        "durationHours": 24,
+        "allowDownload": true
+      },
+      "duration": "1:00:00",
+      "videoUrl": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/link-streamz-478e1850c5f5eb206d9102a224b535b4_Be_Aware_Vj_Emmy.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/link-streamz-478e1850c5f5eb206d9102a224b535b4_Be_Aware_Vj_Emmy.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [],
