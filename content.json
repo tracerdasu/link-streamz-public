@@ -467,7 +467,47 @@
       "servers": []
     }
   ],
-  "highlights": [],
+  "highlights": [
+    {
+      "id": 1794703224688,
+      "title": "My server Test",
+      "home": "TS",
+      "away": "TS2",
+      "length": "",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/wait%20for%20me.mp4",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 2",
+          "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/An-Known%20-%20Radio%20Call.mp4",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 3",
+          "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/Highlights_%20Liverpool%201-1%20Chelsea%20_%20Reds%20win%20on%20penalties!.mp4",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    }
+  ],
   "movies": [
     {
       "id": 1791265368291,
