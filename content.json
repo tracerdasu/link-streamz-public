@@ -856,6 +856,34 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794799703836,
+      "title": "Parallel",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Emmy",
+      "translated": true,
+      "thumb": "https://m.media-amazon.com/images/M/MV5BOTkyZjJiZmQtM2I1Zi00MjhkLWIwZWItNTUzMDQ5NzAyMmZiXkEyXkFqcGc@._V1_.jpg",
+      "timeLimited": {
+        "startAt": "2026-11-16T19:00:00+03:00",
+        "durationHours": 12,
+        "allowDownload": true
+      },
+      "duration": "1:00:00",
+      "videoUrl": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/link-streamz-3bf6bf30976f729d61be8140c91ba0a9_Parallel_VJ_Emmy.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/link-streamz-3bf6bf30976f729d61be8140c91ba0a9_Parallel_VJ_Emmy.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [],
