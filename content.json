@@ -922,6 +922,34 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794866321564,
+      "title": "Other Mommy",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Emmy",
+      "translated": true,
+      "thumb": "https://static01.nyt.com/cl-asset-images/movies/movie-tt36586020.jpg",
+      "timeLimited": {
+        "startAt": "2026-11-17T01:05:00+03:00",
+        "durationHours": 72,
+        "allowDownload": true
+      },
+      "duration": "2:00:00",
+      "videoUrl": "https://link-streamz-app.t3.tigrisfiles.io/The%20other%20mother%20Vj%20Emmy.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_ebTOKXCWthHyEKRwNdnLzkNTbWazlFixuEtelbSFZQiILVoBzV%2F20261116%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261116T213102Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=2473e8d92993f31bd9cdc84c241cea3bb330cd254051982ca0fa264b4813ed63",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://link-streamz-app.t3.tigrisfiles.io/The%20other%20mother%20Vj%20Emmy.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_ebTOKXCWthHyEKRwNdnLzkNTbWazlFixuEtelbSFZQiILVoBzV%2F20261116%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261116T213102Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=2473e8d92993f31bd9cdc84c241cea3bb330cd254051982ca0fa264b4813ed63",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [],
