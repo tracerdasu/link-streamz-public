@@ -442,15 +442,27 @@
   ],
   "highlights": [
     {
-      "id": 1794703224688,
-      "title": "My server Test",
-      "home": "TS",
-      "away": "TS2",
-      "length": "",
+      "id": 1794805422359,
+      "title": "Sample Highlights ",
+      "home": "ARS",
+      "away": "LT",
+      "length": "01:00",
+      "tvBadge": {
+        "card": {
+          "x": 4,
+          "y": 6,
+          "w": 30
+        },
+        "player": {
+          "x": 87,
+          "y": 3,
+          "w": 11
+        }
+      },
       "servers": [
         {
           "name": "Server 1",
-          "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/wait%20for%20me.mp4",
+          "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/Luton_Town_Vs_Arsenal_3-4.mp4",
           "quality": "SD",
           "status": "stable",
           "recommended": true,
@@ -460,17 +472,7 @@
         },
         {
           "name": "Server 2",
-          "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/An-Known%20-%20Radio%20Call.mp4",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 3",
-          "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/Highlights_%20Liverpool%201-1%20Chelsea%20_%20Reds%20win%20on%20penalties!.mp4",
+          "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/Arsenal_Road_To_Glory.mp4",
           "quality": "SD",
           "status": "stable",
           "recommended": false,
