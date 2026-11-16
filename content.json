@@ -447,18 +447,6 @@
       "home": "ARS",
       "away": "LT",
       "length": "01:00",
-      "tvBadge": {
-        "card": {
-          "x": 4,
-          "y": 6,
-          "w": 30
-        },
-        "player": {
-          "x": 87,
-          "y": 3,
-          "w": 11
-        }
-      },
       "servers": [
         {
           "name": "Server 1",
@@ -473,6 +461,16 @@
         {
           "name": "Server 2",
           "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/Arsenal_Road_To_Glory.mp4",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        },
+        {
+          "name": "Server 3",
+          "url": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/youtube-merged/link-streamz-a1d1d5b7e54843b9b52e6df442c45df9.mp4",
           "quality": "SD",
           "status": "stable",
           "recommended": false,
