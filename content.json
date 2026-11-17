@@ -390,7 +390,7 @@
           "url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8?st=DBzYEzPj9LCgBFfBMDquDXVctuj2XCaXmaCM6a79IPU&e=1794901058",
           "quality": "SD",
           "status": "stable",
-          "recommended": true,
+          "recommended": false,
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
@@ -401,6 +401,19 @@
           "quality": "SD",
           "status": "stable",
           "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://embedcenter.st",
+            "Origin": "https://embedcenter.st"
+          }
+        },
+        {
+          "name": "Server 3",
+          "url": "https://10.ftlly.com:443/foxsports1_usa/mono.m3u8?token=e31c556d3dd9b10cc5974fd25814858cc0caec1c-c2-1794919799-1794901799",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
           "useProxy": false,
           "delaySeconds": null,
           "headers": {
