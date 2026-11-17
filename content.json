@@ -458,8 +458,22 @@
       "home": "WH",
       "away": "PG",
       "status": "upcoming",
-      "kickoff": "2026-11-17T19:00:00.000Z",
-      "servers": []
+      "kickoff": "2026-11-17T19:45:00.000Z",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://4.ftlly.com:443/espn/mono.m3u8?token=015d445e48c2f3468565bc88c15782a5a0ac74f6-c1-1794959599-1794941599",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://tvf90.com",
+            "Origin": "https://tvf90.com"
+          }
+        }
+      ]
     }
   ],
   "highlights": [
