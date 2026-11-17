@@ -417,8 +417,21 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {
-            "Referer": "https://embedcenter.st",
-            "Origin": "https://embedcenter.st"
+            "Referer": "https://tvf90.com",
+            "Origin": "https://tvf90.com"
+          }
+        },
+        {
+          "name": "Server 4",
+          "url": "https://6.ftlly.com:443/beinsportes/mono.m3u8?token=830c58c7a35a2f5b46682cc96c075ddda55713e2-ed-1794920665-1794902665",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://tvf90.com",
+            "Origin": "https://tvf90.com"
           }
         }
       ]
