@@ -332,6 +332,11 @@
       "code": "BOT",
       "name": "Botswana",
       "badge": "https://buffstreams24.org/assets/images/logos/botswana.webp"
+    },
+    {
+      "code": "WH",
+      "name": "Whales",
+      "badge": "https://buffstreams24.org/assets/images/logos/wales.webp"
     }
   ],
   "events": [
@@ -445,6 +450,16 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1794941307006,
+      "league": "UEFA NATIONS",
+      "sport": "Football",
+      "home": "WH",
+      "away": "PG",
+      "status": "upcoming",
+      "kickoff": "2026-11-17T19:00:00.000Z",
+      "servers": []
     }
   ],
   "highlights": [
