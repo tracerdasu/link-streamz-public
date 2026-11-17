@@ -4,9 +4,9 @@
   },
   "appUpdate": {
     "enabled": true,
-    "minVersion": "3.1.5",
-    "apkUrl": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/streamz-v3.1.5-release.apk",
-    "message": "Thanks for understanding"
+    "minVersion": "3.1.4",
+    "apkUrl": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/streamz-v3.1.4-release.apk",
+    "message": "Update to continue using the app"
   },
   "sports": [
     "Football",
@@ -433,6 +433,16 @@
             "Referer": "https://tvf90.com",
             "Origin": "https://tvf90.com"
           }
+        },
+        {
+          "name": "Server 5",
+          "url": "https://a12.kora-plus.li/live/b1.m3u8?token=GbxN7M4pH-lFbFC6Zxge597DLSE&exp=1794921752",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
         }
       ]
     }
