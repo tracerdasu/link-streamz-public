@@ -394,6 +394,19 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Server 2",
+          "url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8?st=DBzYEzPj9LCgBFfBMDquDXVctuj2XCaXmaCM6a79IPU&e=1794901058",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://embedcenter.st",
+            "Origin": "https://embedcenter.st"
+          }
         }
       ]
     }
