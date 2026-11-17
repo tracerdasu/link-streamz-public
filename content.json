@@ -4,8 +4,8 @@
   },
   "appUpdate": {
     "enabled": true,
-    "minVersion": "3.1.3",
-    "apkUrl": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/streamz-v3.1.3-release.apk",
+    "minVersion": "3.1.4",
+    "apkUrl": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/streamz-v3.1.4-release.apk",
     "message": "Update to continue using the app"
   },
   "sports": [
