@@ -459,6 +459,18 @@
       "away": "PG",
       "status": "upcoming",
       "kickoff": "2026-11-17T19:45:00.000Z",
+      "tvBadge": {
+        "card": {
+          "x": 4,
+          "y": 6,
+          "w": 30
+        },
+        "player": {
+          "x": 80,
+          "y": 5,
+          "w": 15
+        }
+      },
       "servers": [
         {
           "name": "Server 1",
