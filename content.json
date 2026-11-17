@@ -472,6 +472,19 @@
             "Referer": "https://tvf90.com",
             "Origin": "https://tvf90.com"
           }
+        },
+        {
+          "name": "Server 2",
+          "url": "https://liveplay1.camel4.live/live/27551_12568346_2y8m4zh5vyl1ql0_md.m3u8?txSecret=61262c437a092aee53083c6d0dd8e10c&txTime=6AFCB1FA&lat=9000&auth=792c3da4310f30f7b5f1520d8a19bb5e",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://www.camel1.tv",
+            "Origin": "https://www.camel1.tv"
+          }
         }
       ]
     }
