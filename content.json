@@ -448,6 +448,19 @@
           "useProxy": false,
           "delaySeconds": null,
           "headers": {}
+        },
+        {
+          "name": "Server 6",
+          "url": "https://11.ftlly.com:443/espn/mono.m3u8?token=132e85c67bac2ce8bd511d217b5602524b48d95b-e0-1795021075-1795003075",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://tvf90.com",
+            "Origin": "https://tvf90.com"
+          }
         }
       ]
     },
