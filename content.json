@@ -512,6 +512,16 @@
           }
         }
       ]
+    },
+    {
+      "id": 1795123070121,
+      "league": "Asian Games",
+      "sport": "Baseball",
+      "home": "BN",
+      "away": "CCB",
+      "status": "upcoming",
+      "kickoff": "2026-11-19T22:20:00.000Z",
+      "servers": []
     }
   ],
   "highlights": [
