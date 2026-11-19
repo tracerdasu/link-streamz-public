@@ -4,7 +4,7 @@
   },
   "appUpdate": {
     "enabled": true,
-    "minVersion": "3.1.4",
+    "minVersion": "3.1.7",
     "apkUrl": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/streamz-v3.1.4-release.apk",
     "message": "Update to continue using the app"
   },
