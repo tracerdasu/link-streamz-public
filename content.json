@@ -1026,7 +1026,45 @@
       ]
     }
   ],
-  "series": [],
+  "series": [
+    {
+      "id": 1795186447294,
+      "title": "Mobland",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Ulio",
+      "translated": true,
+      "thumb": "https://media.themoviedb.org/t/p/w300_and_h450_face/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 8",
+              "duration": "1:00:00",
+              "thumb": "https://media.themoviedb.org/t/p/w300_and_h450_face/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+              "videoUrl": "https://link-streamz-app3.t3.tigrisfiles.io/Mobland%20S1E8_VJ_ULIO?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_csOZoavwwEKcTxREFUjoPyGkOeWQvv_fyYNWQzNgICwceZpFtS%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T145048Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=d6c574a136d19a210da32d0833b61ce028f1ee2f22045aba6966680b178b8ae0"
+            },
+            {
+              "number": 2,
+              "title": "Episode 9",
+              "duration": "1:00:00",
+              "thumb": "https://media.themoviedb.org/t/p/w300_and_h450_face/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+              "videoUrl": "https://link-streamz-app3.t3.tigrisfiles.io/Mobland%20S1E9_VJ_ULIO?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_csOZoavwwEKcTxREFUjoPyGkOeWQvv_fyYNWQzNgICwceZpFtS%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T144958Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=61409b6b5f5690c5c42719ecf11a071a4dc56ab9b7cc9f1bb07bcf6f55f7abb2"
+            },
+            {
+              "number": 3,
+              "title": "Episode 10",
+              "duration": "1:00:00",
+              "thumb": "https://media.themoviedb.org/t/p/w300_and_h450_face/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+              "videoUrl": "https://link-streamz-app3.t3.tigrisfiles.io/Mobland%20S1E10_VJ_ULIO?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_csOZoavwwEKcTxREFUjoPyGkOeWQvv_fyYNWQzNgICwceZpFtS%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T145116Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=2a29760d45667e6d4f94f97c2d2cb2c49c6a077890e4a389f09f76961a84b10f"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "id": 1791265673491,
