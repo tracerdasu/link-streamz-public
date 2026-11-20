@@ -461,6 +461,19 @@
             "Referer": "https://tvf90.com",
             "Origin": "https://tvf90.com"
           }
+        },
+        {
+          "name": "Server 7",
+          "url": "https://10.ftlly.com:443/espn/mono.m3u8?token=5a57902a4913683e775c37c40abd11ff66f70511-db-1795224477-1795206477",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://tvf90.com",
+            "Origin": "https://tvf90.com"
+          }
         }
       ]
     },
