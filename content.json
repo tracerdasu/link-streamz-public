@@ -1061,6 +1061,32 @@
               "videoUrl": "https://link-streamz-app3.t3.tigrisfiles.io/Mobland%20S1E10_VJ_ULIO?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_csOZoavwwEKcTxREFUjoPyGkOeWQvv_fyYNWQzNgICwceZpFtS%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T145116Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=2a29760d45667e6d4f94f97c2d2cb2c49c6a077890e4a389f09f76961a84b10f"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode 1",
+              "duration": "1:00:00",
+              "thumb": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@.jpg",
+              "videoUrl": "https://link-streamz-app3.t3.tigrisfiles.io/Mobland%20S2E1_VJ_ULIO?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_csOZoavwwEKcTxREFUjoPyGkOeWQvv_fyYNWQzNgICwceZpFtS%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T151624Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=fd067891c32d8102c8084173dadceb63346cd81af7d90f08e1a4424b453af837"
+            },
+            {
+              "number": 2,
+              "title": "Episode 2",
+              "duration": "1:00:00",
+              "thumb": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@.jpg",
+              "videoUrl": "https://link-streamz-app3.t3.tigrisfiles.io/Mobland%20S2E2_VJ_ULIO?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_csOZoavwwEKcTxREFUjoPyGkOeWQvv_fyYNWQzNgICwceZpFtS%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T151649Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=9a6af01360e6bc2c030094e5dea8db7c987c12fb1b895f571353c4f8d6665a0d"
+            },
+            {
+              "number": 3,
+              "title": "Episode 3",
+              "duration": "1:00:00",
+              "thumb": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@.jpg",
+              "videoUrl": "https://link-streamz-app3.t3.tigrisfiles.io/Mobland%20S2E3_VJ_ULIO?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_csOZoavwwEKcTxREFUjoPyGkOeWQvv_fyYNWQzNgICwceZpFtS%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T151710Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=80e94f269ab40066ce86c1d651400d92359e3cfeb51ce8be0f4169f7883fadfc"
+            }
+          ]
         }
       ]
     }
