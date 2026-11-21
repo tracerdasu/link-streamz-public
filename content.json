@@ -415,7 +415,7 @@
           "url": "https://9.ftlly.com:443/universo/mono.m3u8?token=f21bc934a6f87ff17baff8a7dbb1a58bc2255322-e0-1795279777-1795261777",
           "quality": "SD",
           "status": "stable",
-          "recommended": true,
+          "recommended": false,
           "useProxy": false,
           "delaySeconds": null,
           "headers": {
@@ -434,6 +434,19 @@
           "headers": {
             "Referer": "https://tvf90.com",
             "Origin": "https://tvf90.com"
+          }
+        },
+        {
+          "name": "Camel",
+          "url": "https://liveplay1.camel4.live/live/sd-6MwdqQgo9yQfUNdRA7_md.m3u8?txSecret=096fe600eb24b9c28b14dd68c766bd75&txTime=6B01912C&lat=9000&auth=35011e2c0fc5e023e66aa84dd0f3f80b",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://www.camel1.tv",
+            "Origin": "https://www.camel1.tv"
           }
         }
       ]
