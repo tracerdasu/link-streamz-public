@@ -990,6 +990,34 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1795294930375,
+      "title": "Predestination",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Ulio",
+      "translated": true,
+      "thumb": "https://media.themoviedb.org/t/p/w300_and_h450_face/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+      "timeLimited": {
+        "startAt": "2026-11-22T00:10:00+03:00",
+        "durationHours": 168,
+        "allowDownload": true
+      },
+      "duration": "1:00:00",
+      "videoUrl": "https://link-streamz-app3.t3.tigrisfiles.io/PREDESTINATION_VJ_ULIO.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_csOZoavwwEKcTxREFUjoPyGkOeWQvv_fyYNWQzNgICwceZpFtS%2F20261121%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261121T205920Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=2760a60d9813b4b792658957dcd9ef993e190519aa6a90853ebe389beb0ca33e",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://link-streamz-app3.t3.tigrisfiles.io/PREDESTINATION_VJ_ULIO.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=tid_csOZoavwwEKcTxREFUjoPyGkOeWQvv_fyYNWQzNgICwceZpFtS%2F20261121%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261121T205920Z&X-Amz-Expires=7776000&X-Amz-SignedHeaders=host&X-Amz-Signature=2760a60d9813b4b792658957dcd9ef993e190519aa6a90853ebe389beb0ca33e",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [
