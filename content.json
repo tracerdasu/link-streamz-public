@@ -409,7 +409,34 @@
       "away": "FL",
       "status": "upcoming",
       "kickoff": "2026-11-21T12:30:00.000Z",
-      "servers": []
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://9.ftlly.com:443/universo/mono.m3u8?token=f21bc934a6f87ff17baff8a7dbb1a58bc2255322-e0-1795279777-1795261777",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://tvf90.com",
+            "Origin": "https://tvf90.com"
+          }
+        },
+        {
+          "name": "Server 2",
+          "url": "https://8.ftlly.com:443/espn/mono.m3u8?token=049539f56515360a3c77c065021c0b0bfb8f9ea8-80-1795279817-1795261817",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://tvf90.com",
+            "Origin": "https://tvf90.com"
+          }
+        }
+      ]
     },
     {
       "id": 1795258379513,
