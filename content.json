@@ -342,6 +342,11 @@
       "code": "FL",
       "name": "Fulham",
       "badge": "https://buffstreams24.org/assets/images/logos/fulham.webp"
+    },
+    {
+      "code": "NUT",
+      "name": "Newcastle United",
+      "badge": "https://storage.lsmedia1.com/images/team/high/teambadge/newcastle-united-2026.png"
     }
   ],
   "events": [
@@ -404,6 +409,16 @@
       "away": "FL",
       "status": "upcoming",
       "kickoff": "2026-11-21T12:30:00.000Z",
+      "servers": []
+    },
+    {
+      "id": 1795258379513,
+      "league": "Premier League",
+      "sport": "Football",
+      "home": "ARS",
+      "away": "NUT",
+      "status": "upcoming",
+      "kickoff": "2026-11-21T17:45:00.000Z",
       "servers": []
     }
   ],
