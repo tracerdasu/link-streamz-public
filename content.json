@@ -337,6 +337,11 @@
       "code": "WH",
       "name": "Whales",
       "badge": "https://buffstreams24.org/assets/images/logos/wales.webp"
+    },
+    {
+      "code": "FL",
+      "name": "Fulham",
+      "badge": "https://buffstreams24.org/assets/images/logos/fulham.webp"
     }
   ],
   "events": [
@@ -382,151 +387,6 @@
       "servers": []
     },
     {
-      "id": 1794895591299,
-      "league": "Africa Cup of Nations",
-      "sport": "Baseball",
-      "home": "BL",
-      "away": "CHL",
-      "status": "live",
-      "minute": "3",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8?st=DBzYEzPj9LCgBFfBMDquDXVctuj2XCaXmaCM6a79IPU&e=1794901058",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 2",
-          "url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8?st=DBzYEzPj9LCgBFfBMDquDXVctuj2XCaXmaCM6a79IPU&e=1794901058",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://embedcenter.st",
-            "Origin": "https://embedcenter.st"
-          }
-        },
-        {
-          "name": "Server 3",
-          "url": "https://10.ftlly.com:443/foxsports1_usa/mono.m3u8?token=e31c556d3dd9b10cc5974fd25814858cc0caec1c-c2-1794919799-1794901799",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://tvf90.com",
-            "Origin": "https://tvf90.com"
-          }
-        },
-        {
-          "name": "Server 4",
-          "url": "https://6.ftlly.com:443/beinsportes/mono.m3u8?token=830c58c7a35a2f5b46682cc96c075ddda55713e2-ed-1794920665-1794902665",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://tvf90.com",
-            "Origin": "https://tvf90.com"
-          }
-        },
-        {
-          "name": "Server 5",
-          "url": "https://a12.kora-plus.li/live/b1.m3u8?token=GbxN7M4pH-lFbFC6Zxge597DLSE&exp=1794921752",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        },
-        {
-          "name": "Server 6",
-          "url": "https://11.ftlly.com:443/espn/mono.m3u8?token=132e85c67bac2ce8bd511d217b5602524b48d95b-e0-1795021075-1795003075",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://tvf90.com",
-            "Origin": "https://tvf90.com"
-          }
-        },
-        {
-          "name": "Server 7",
-          "url": "https://10.ftlly.com:443/espn/mono.m3u8?token=5a57902a4913683e775c37c40abd11ff66f70511-db-1795224477-1795206477",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://tvf90.com",
-            "Origin": "https://tvf90.com"
-          }
-        }
-      ]
-    },
-    {
-      "id": 1794941307006,
-      "league": "UEFA NATIONS",
-      "sport": "Football",
-      "home": "WH",
-      "away": "PG",
-      "status": "upcoming",
-      "kickoff": "2026-11-17T19:45:00.000Z",
-      "tvBadge": {
-        "card": {
-          "x": 4,
-          "y": 6,
-          "w": 30
-        },
-        "player": {
-          "x": 84,
-          "y": 4,
-          "w": 12
-        }
-      },
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://4.ftlly.com:443/espn/mono.m3u8?token=015d445e48c2f3468565bc88c15782a5a0ac74f6-c1-1794959599-1794941599",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://tvf90.com",
-            "Origin": "https://tvf90.com"
-          }
-        },
-        {
-          "name": "Server 2",
-          "url": "https://liveplay1.camel4.live/live/27551_12568346_2y8m4zh5vyl1ql0_md.m3u8?txSecret=61262c437a092aee53083c6d0dd8e10c&txTime=6AFCB1FA&lat=9000&auth=792c3da4310f30f7b5f1520d8a19bb5e",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://www.camel1.tv",
-            "Origin": "https://www.camel1.tv"
-          }
-        }
-      ]
-    },
-    {
       "id": 1795123070121,
       "league": "Asian Games",
       "sport": "Baseball",
@@ -534,6 +394,16 @@
       "away": "CCB",
       "status": "upcoming",
       "kickoff": "2026-11-19T22:20:00.000Z",
+      "servers": []
+    },
+    {
+      "id": 1795258190736,
+      "league": "Premier League",
+      "sport": "Football",
+      "home": "MC",
+      "away": "FL",
+      "status": "upcoming",
+      "kickoff": "2026-11-21T12:30:00.000Z",
       "servers": []
     }
   ],
