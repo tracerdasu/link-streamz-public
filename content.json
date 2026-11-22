@@ -8,6 +8,16 @@
     "apkUrl": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/streamz-v3.1.4-release.apk",
     "message": "Update to continue using the app"
   },
+  "messages": [
+    {
+      "id": 1795347005303,
+      "title": "Greetings Everyone 😊",
+      "body": "This is Admin, from the Link Ecosystem Developers. Felt like checking on you at once. If there's any features or any item requests, our support inbox is now reachable via Contact Us. Kindly reach out!\n\nThanks",
+      "style": "info",
+      "frequency": "always",
+      "active": true
+    }
+  ],
   "sports": [
     "Football",
     "Basketball",
