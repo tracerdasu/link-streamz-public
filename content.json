@@ -479,7 +479,34 @@
       "away": "MNCU",
       "status": "upcoming",
       "kickoff": "2026-11-22T16:30:00.000Z",
-      "servers": []
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://3.ftlly.com:443/espn/mono.m3u8?token=a721173d822bd200a9391e60083b9215ca3f6dfd-7a-1795380711-1795362711",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://tvf90.com",
+            "Origin": "https://tvf90.com"
+          }
+        },
+        {
+          "name": "Server 2",
+          "url": "https://4.ftlly.com:443/telemundo/mono.m3u8?token=91a5ad6fdaaa0a50e1253681e0fc63a9af251330-8e-1795380755-1795362755",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": false,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://tvf90.com",
+            "Origin": "https://tvf90.com"
+          }
+        }
+      ]
     }
   ],
   "highlights": [
