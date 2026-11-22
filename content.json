@@ -3,9 +3,9 @@
     "defaultDelaySeconds": 20
   },
   "appUpdate": {
-    "enabled": false,
-    "minVersion": "3.1.7",
-    "apkUrl": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/streamz-v3.1.4-release.apk",
+    "enabled": true,
+    "minVersion": "3.3.0",
+    "apkUrl": "https://pub-ffee94ef9eb14952a9ce3c7c192c8c39.r2.dev/app-release.apk",
     "message": "Update to continue using the app"
   },
   "messages": [
