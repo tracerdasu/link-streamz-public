@@ -10,20 +10,12 @@
   },
   "messages": [
     {
-      "id": 1795480176281,
-      "title": "Good morning my people",
-      "body": "We love you all!",
+      "id": 1795495364177,
+      "title": "Welcome Back 🤗",
+      "body": "Enjoy the stay!",
       "style": "info",
-      "frequency": "always",
+      "frequency": "once",
       "active": true
-    },
-    {
-      "id": 1795347005303,
-      "title": "Greetings Everyone 😊",
-      "body": "This is Admin, from the Link Ecosystem Developers. Felt like checking on you at once. If there's any features or any item requests, our support inbox is now reachable via Contact Us. Kindly reach out!\n\nThanks",
-      "style": "info",
-      "frequency": "daily",
-      "active": false
     }
   ],
   "sports": [
@@ -365,6 +357,11 @@
       "code": "NUT",
       "name": "Newcastle",
       "badge": "https://storage.lsmedia1.com/images/team/high/teambadge/newcastle-united-2026.png"
+    },
+    {
+      "code": "DTD",
+      "name": "Dortmund",
+      "badge": "https://storage.lsmedia1.com/images/team/high/enet/9789.png"
     }
   ],
   "events": [
@@ -471,6 +468,16 @@
           }
         }
       ]
+    },
+    {
+      "id": 1795495318333,
+      "league": "UEFA Champions League",
+      "sport": "Football",
+      "home": "ARS",
+      "away": "DTD",
+      "status": "upcoming",
+      "kickoff": "2026-11-24T20:00:00.000Z",
+      "servers": []
     }
   ],
   "highlights": [
