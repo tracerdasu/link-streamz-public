@@ -414,7 +414,21 @@
       "away": "DTD",
       "status": "upcoming",
       "kickoff": "2026-11-24T20:00:00.000Z",
-      "servers": []
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://3.ftlly.com:443/espn3/mono.m3u8?token=f067adc1834a876468c9a91dc7a75427782611c4-a5-1795566959-1795548959",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {
+            "Referer": "https://tvf90.com",
+            "Origin": "https://tvf90.com"
+          }
+        }
+      ]
     },
     {
       "id": 1795499902515,
