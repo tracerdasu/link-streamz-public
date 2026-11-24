@@ -1021,6 +1021,34 @@
           "headers": {}
         }
       ]
+    },
+    {
+      "id": 1795479862538,
+      "title": "Vitam",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": "VJ Ulio",
+      "translated": true,
+      "thumb": "https://dns.vjstream.nerd.ug/movies/Ad%20Vitam/Ad%20Vitam_card.jpg",
+      "timeLimited": {
+        "startAt": "2026-11-24T03:30:00+03:00",
+        "durationHours": 168,
+        "allowDownload": true
+      },
+      "duration": "1:00:00",
+      "videoUrl": "https://dns.vjstream.nerd.ug/movies/Ad%20Vitam/Ad%20Vitam.mp4",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://dns.vjstream.nerd.ug/movies/Ad%20Vitam/Ad%20Vitam.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "series": [
