@@ -415,6 +415,16 @@
       "status": "upcoming",
       "kickoff": "2026-11-24T20:00:00.000Z",
       "servers": []
+    },
+    {
+      "id": 1795499902515,
+      "league": "AFCON qualifications",
+      "sport": "Football",
+      "home": "BL",
+      "away": "BOT",
+      "status": "upcoming",
+      "kickoff": "2026-11-24T06:02:00.000Z",
+      "servers": []
     }
   ],
   "highlights": [
