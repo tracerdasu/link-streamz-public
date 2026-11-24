@@ -362,6 +362,11 @@
       "code": "DTD",
       "name": "Dortmund",
       "badge": "https://storage.lsmedia1.com/images/team/high/enet/9789.png"
+    },
+    {
+      "code": "NPL",
+      "name": "Napoli",
+      "badge": "https://storage.lsmedia1.com/images/team/high/enet/9875.png"
     }
   ],
   "events": [
@@ -439,6 +444,27 @@
       "status": "upcoming",
       "kickoff": "2026-11-24T13:20:00.000Z",
       "servers": []
+    },
+    {
+      "id": 1795550126486,
+      "league": "UEFA Champions League",
+      "sport": "Football",
+      "home": "MC",
+      "away": "NPL",
+      "status": "upcoming",
+      "kickoff": "2026-11-24T20:00:00.000Z",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://4.ftlly.com:443/espn2/mono.m3u8?token=68e31dcbecb8f0c96d02f95656fcaa520a5fc9ca-74-1795567077-1795549077",
+          "quality": "SD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
     }
   ],
   "highlights": [
