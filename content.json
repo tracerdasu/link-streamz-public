@@ -407,69 +407,6 @@
       "servers": []
     },
     {
-      "id": 1795363294316,
-      "league": "Premier League",
-      "sport": "Football",
-      "home": "LPJ",
-      "away": "MNCU",
-      "status": "upcoming",
-      "kickoff": "2026-11-22T16:30:00.000Z",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://3.ftlly.com:443/espn/mono.m3u8?token=a721173d822bd200a9391e60083b9215ca3f6dfd-7a-1795380711-1795362711",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://tvf90.com",
-            "Origin": "https://tvf90.com"
-          }
-        },
-        {
-          "name": "Server 2",
-          "url": "https://4.ftlly.com:443/telemundo/mono.m3u8?token=91a5ad6fdaaa0a50e1253681e0fc63a9af251330-8e-1795380755-1795362755",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://tvf90.com",
-            "Origin": "https://tvf90.com"
-          }
-        },
-        {
-          "name": "Server 3",
-          "url": "https://liveplay1.camel4.live/live/hd-en-6MwdqQgoAYNsXa2ATZ_md.m3u8?txSecret=4dbb3433562ab0ad22a05776ba50ffe3&txTime=6B032786&lat=9000&auth=792c3da4310f30f7b5f1520d8a19bb5e",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://www.camel2.live",
-            "Origin": "https://www.camel2.live"
-          }
-        },
-        {
-          "name": "Server 4",
-          "url": "https://liveplay1.camel4.live/live/27551_12568346_n54qllhny65lqvy_md.m3u8?txSecret=1c66b481a62b7931db86979a0e30f7c6&txTime=6B03273A&lat=9000&auth=792c3da4310f30f7b5f1520d8a19bb5e",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://www.camel2.live",
-            "Origin": "https://www.camel2.live"
-          }
-        }
-      ]
-    },
-    {
       "id": 1795495318333,
       "league": "UEFA Champions League",
       "sport": "Football",
