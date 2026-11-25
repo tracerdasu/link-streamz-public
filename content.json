@@ -367,6 +367,11 @@
       "code": "NPL",
       "name": "Napoli",
       "badge": "https://storage.lsmedia1.com/images/team/high/enet/9875.png"
+    },
+    {
+      "code": "SPCH",
+      "name": "Sporting CP",
+      "badge": "https://storage.lsmedia1.com/images/team/high/enet/9768.png"
     }
   ],
   "events": [
@@ -412,72 +417,14 @@
       "servers": []
     },
     {
-      "id": 1795495318333,
+      "id": 1795576743144,
       "league": "UEFA Champions League",
       "sport": "Football",
-      "home": "ARS",
-      "away": "DTD",
+      "home": "SPCH",
+      "away": "MNCU",
       "status": "upcoming",
-      "kickoff": "2026-11-24T20:00:00.000Z",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://3.ftlly.com:443/espn3/mono.m3u8?token=f067adc1834a876468c9a91dc7a75427782611c4-a5-1795566959-1795548959",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": "https://tvf90.com",
-            "Origin": "https://tvf90.com"
-          }
-        },
-        {
-          "name": "Server 2",
-          "url": "https://liveplay1.camel4.live/live/sd-6Mxj4xWhBdrxEc4RSo_md.m3u8?txSecret=6b019f5086c8d0f48192fb1aeb2ce44f&txTime=6B05F56B&lat=9000&auth=792c3da4310f30f7b5f1520d8a19bb5e",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": false,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {
-            "Referer": " https://www.camel1.tv",
-            "Origin": " https://www.camel1.tv"
-          }
-        }
-      ]
-    },
-    {
-      "id": 1795499902515,
-      "league": "AFCON qualifications",
-      "sport": "Football",
-      "home": "BL",
-      "away": "BOT",
-      "status": "upcoming",
-      "kickoff": "2026-11-24T13:20:00.000Z",
+      "kickoff": "2026-11-25T20:00:00.000Z",
       "servers": []
-    },
-    {
-      "id": 1795550126486,
-      "league": "UEFA Champions League",
-      "sport": "Football",
-      "home": "MC",
-      "away": "NPL",
-      "status": "upcoming",
-      "kickoff": "2026-11-24T20:00:00.000Z",
-      "servers": [
-        {
-          "name": "Server 1",
-          "url": "https://4.ftlly.com:443/espn2/mono.m3u8?token=68e31dcbecb8f0c96d02f95656fcaa520a5fc9ca-74-1795567077-1795549077",
-          "quality": "SD",
-          "status": "stable",
-          "recommended": true,
-          "useProxy": false,
-          "delaySeconds": null,
-          "headers": {}
-        }
-      ]
     }
   ],
   "highlights": [
