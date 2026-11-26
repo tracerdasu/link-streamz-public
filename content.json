@@ -415,16 +415,6 @@
       "status": "upcoming",
       "kickoff": "2026-12-20T16:30:00.000Z",
       "servers": []
-    },
-    {
-      "id": 1795576743144,
-      "league": "UEFA Champions League",
-      "sport": "Football",
-      "home": "SPCH",
-      "away": "MNCU",
-      "status": "upcoming",
-      "kickoff": "2026-11-25T20:00:00.000Z",
-      "servers": []
     }
   ],
   "highlights": [
@@ -1121,6 +1111,34 @@
               "duration": "1:00:00",
               "thumb": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@.jpg",
               "videoUrl": "https://dns.vjstream.nerd.ug/series/MOBLAND%20S02E06%20VJ%20ULIO/MOBLAND%20S02E06%20VJ%20ULIO.mp4"
+            },
+            {
+              "number": 7,
+              "title": "Episode 7",
+              "duration": "1:00:00",
+              "thumb": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@.jpg",
+              "videoUrl": "https://dns.vjstream.nerd.ug/series/MOBLAND%20S02E07%20VJ%20ULIO/MOBLAND%20S02E07%20VJ%20ULIO.mp4"
+            },
+            {
+              "number": 8,
+              "title": "Episode 8",
+              "duration": "1:00:00",
+              "thumb": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@.jpg",
+              "videoUrl": "https://dns.vjstream.nerd.ug/series/Mobland%20Sn2/episodes/Mobland%20Sn2_S02E08.mp4"
+            },
+            {
+              "number": 9,
+              "title": "Episode 9",
+              "duration": "1:00:00",
+              "thumb": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@.jpg",
+              "videoUrl": "https://dns.vjstream.nerd.ug/series/Mobland%20Sn2/episodes/Mobland%20Sn2_S02E09.mp4"
+            },
+            {
+              "number": 10,
+              "title": "Episode 10",
+              "duration": "1:00:00",
+              "thumb": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@.jpg",
+              "videoUrl": "https://dns.vjstream.nerd.ug/series/Mobland%20Sn2%20(E08-END)/episodes/Mobland%20Sn2%20(E08-END)_S02E10.mp4"
             }
           ]
         }
