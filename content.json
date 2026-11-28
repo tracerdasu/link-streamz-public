@@ -382,7 +382,7 @@
       "home": "TS",
       "away": "TS2",
       "status": "live",
-      "minute": "0",
+      "minute": 0,
       "servers": [
         {
           "name": "Server 1",
@@ -1021,6 +1021,57 @@
         {
           "name": "Server 1",
           "url": "https://dns.vjstream.nerd.ug/movies/To%20All%20The%20Boys%20That%20I've%20Loved%20Before%202/To%20All%20The%20Boys%20That%20I've%20Loved%20Before%202.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1795828768386,
+      "title": "Testing Bucket Flow",
+      "genre": "",
+      "year": 2026,
+      "vj": null,
+      "translated": false,
+      "thumb": "",
+      "duration": "",
+      "videoUrl": "https://s3.fsn.net/default/My%20Movie.mp4",
+      "servers": [
+        {
+          "name": "Bucket",
+          "url": "https://s3.fsn.net/default/My%20Movie.mp4",
+          "quality": "HD",
+          "status": "stable",
+          "recommended": true,
+          "useProxy": false,
+          "delaySeconds": null,
+          "headers": {}
+        }
+      ]
+    },
+    {
+      "id": 1795828778174,
+      "title": "Test Movie",
+      "genre": "ACTION",
+      "year": 2026,
+      "vj": null,
+      "translated": false,
+      "thumb": "https://a.ltrbxd.com/resized/film-poster/1/5/5/0/1/9/0/1550190-test-2026-0-230-0-345-crop.jpg?v=4cac475746",
+      "timeLimited": {
+        "startAt": "2026-11-28T04:30:00+03:00",
+        "durationHours": 24,
+        "allowDownload": true
+      },
+      "duration": "1:00:00",
+      "videoUrl": "https://s3.fsn.net/default/My%20Movie.mp4",
+      "servers": [
+        {
+          "name": "Bucket",
+          "url": "https://s3.fsn.net/default/My%20Movie.mp4",
           "quality": "HD",
           "status": "stable",
           "recommended": true,
